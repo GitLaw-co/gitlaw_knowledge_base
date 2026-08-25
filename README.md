@@ -97,12 +97,41 @@ Guides on how to use GitLaw
 - [Use playbooks and negotiation posture](gitlaw-how-to-guides/use-playbooks-and-negotiation-posture.md)
 - [View version history](gitlaw-how-to-guides/view-and-restore-version-history.md)
 
+### Policies & Terms
+Policies and Terms to use GitLaw
+
+- [Content Removal Policies - Submitting content removal requests](policies-terms/content-removal-policies---submitting-content-removal-requests.md)
+- [GitLaw Acceptable Use Policies - additional](policies-terms/gitlaw-acceptable-use-policies---additional.md)
+- [GitLaw Acceptable Use Policies](policies-terms/gitlaw-acceptable-use-policies.md)
+- [GitLaw Community Code of Conduct](policies-terms/gitlaw-community-code-of-conduct.md)
+- [GitLaw Community Guidelines](policies-terms/gitlaw-community-guidelines.md)
+- [GitLaw Cookies](policies-terms/gitlaw-cookies.md)
+- [GitLaw DMCA Takedown Policy](policies-terms/gitlaw-dmca-takedown-policy.md)
+- [GitLaw Private Information Removal Policy](policies-terms/gitlaw-private-information-removal-policy.md)
+- [GitLaw Subprocessors](policies-terms/gitlaw-subprocessors.md)
+- [GitLaw Trademark Policy](policies-terms/gitlaw-trademark-policy.md)
+- [GitLaw Username Policy](policies-terms/gitlaw-username-policy.md)
+- [Guide to Submitting a DMCA Counter Notice](policies-terms/guide-to-submitting-a-dmca-counter-notice.md)
+- [Privacy Policies - GitLaw General Privacy Statement](policies-terms/privacy-policies---gitlaw-general-privacy-statement.md)
+
+### Data & Security
+Explore frequently asked questions about GitLaw's data and security
+
+- [How GitLaw Protects Your Data and Personal Information](data-security/how-gitlaw-protects-your-data-and-personal-information.md)
+- [How Does GitLaw Keep My Contracts Secure?](data-security/security.md)
+- [Where we store data](data-security/where-we-store-data.md)
+
+### Copyright & Takedowns
+Learn more about copyright and takedown notices
+
+- [Submit a DMCA takedown notice or DMCA counter takedown notice](copyright-takedowns/submit-a-dmca-takedown-notice-or-dmca-counter-takedown-notice.md)
+
 ### License
 Licensing options for content published on GitLaw.
 
 - [GitLaw Content License Terms](license/license-terms.md)
 
-69 articles.
+86 articles.
 
 ---
 

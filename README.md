@@ -97,10 +97,10 @@ Guides on how to use GitLaw
 - [Use playbooks and negotiation posture](gitlaw-how-to-guides/use-playbooks-and-negotiation-posture.md)
 - [View version history](gitlaw-how-to-guides/view-and-restore-version-history.md)
 
-### Other
-Additional reference material.
+### License
+Licensing options for content published on GitLaw.
 
-- [GitLaw Content License Terms](uncategorised/license-terms.md)
+- [GitLaw Content License Terms](license/license-terms.md)
 
 69 articles.
 

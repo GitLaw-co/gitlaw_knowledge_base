@@ -20,7 +20,7 @@ A few specifics worth knowing:
 
 ## What about conversation logs?
 
-Your AI conversation chain is sent to LangSmith (a monitoring tool by LangChain) so GitLaw can debug issues and improve response quality. LangSmith does not use your data for model training. Within GitLaw, access to the production LangSmith instance is restricted to a small number of team members who need it for their role. Conversation data in LangSmith is retained for 14 days and then automatically deleted.
+Your AI conversation chain is recorded on GitLaw's own infrastructure so GitLaw can debug issues and improve response quality. It is not sent to a third party and is not used for model training. Within GitLaw, access is restricted to a small number of team members who need it for their role. Conversation data is retained for 14 days and then automatically deleted.
 
 ## What GitLaw may use de-identified data for
 

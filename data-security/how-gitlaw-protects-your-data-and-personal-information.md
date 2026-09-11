@@ -69,7 +69,7 @@ Important things to know:
 - **Data minimization:** We send only the data needed for the specific AI task you've requested.
 - **No model training:** Our AI providers do not use your inputs to train their models. Your contract data is processed and discarded - it does not become part of any AI training dataset.
 - **Zero data retention:** Our primary AI provider (Anthropic) operates under a zero data retention agreement - your contract data is not stored by the AI provider after processing is complete.
-- **Conversation logging**: Your AI conversation chain is sent to LangSmith, a monitoring and observability tool by LangChain, which we use to debug, monitor, and improve the quality of AI responses. LangSmith does not use your data for model training. At GitLaw we carefully limit who inside GitLaw has access to our production LangSmith instance.
+- **Conversation logging**: Your AI conversation chain is recorded on our own infrastructure, which we use to debug, monitor, and improve the quality of AI responses. It is not sent to a third party and is not used for model training. At GitLaw we carefully limit who inside GitLaw has access to it.
 - **Optional:** AI features are optional. You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
 
 # Privacy Between Parties
@@ -90,7 +90,7 @@ No. Private documents on GitLaw are private. Other users cannot see, search, or 
 
 We limit internal access to your data to what's needed to run and improve the service:
 
-- A small number of team members can review data processed by our AI features in LangSmith to monitor quality, debug issues, and improve reliability. This data is retained for 14 days and then automatically deleted.
+- A small number of team members can review data processed by our AI features to monitor quality, debug issues, and improve reliability. This data is retained for 14 days and then automatically deleted.
 - Only team members who need this access for their role have it.
 - We do not access your documents for sales, marketing, or any purpose unrelated to running the service.
 - We may access your data if you ask us to (e.g., for a support request), for security purposes (e.g., scanning for malware), or where required by law.

@@ -19,23 +19,23 @@ Since the number and names of cookies may change, the table below may be updated
 
 ### **Essential Cookies**
 
-| Cookie         | Domain     | Duration | Description             |
-| -------------- | ---------- | -------- | ----------------------- |
-| i_am_the_law   | .gitlaw.co | Session  | User session cookie     |
-| law_incredible | .gitlaw.co | 1 week   | Remember user on device |
-| lang           | .gitlaw.co | Session  | Current user language   |
-| \_glaw         | .gitlaw.co | 1 year   | Cookie consent status   |
+| Cookie         | Domain   | Duration | Description             |
+| -------------- | -------- | -------- | ----------------------- |
+| i_am_the_law   | .git.law | Session  | User session cookie     |
+| law_incredible | .git.law | 1 week   | Remember user on device |
+| lang           | .git.law | Session  | Current user language   |
+| \_glaw         | .git.law | 1 year   | Cookie consent status   |
 
 ###
 
 **Analytical Cookies**
 
-| Cookie                           | Domain     | Duration |
-| -------------------------------- | ---------- | -------- |
-| ajs_user_id                      | .gitlaw.co | 1 year   |
-| ajs_anonymous_id                 | .gitlaw.co | 1 year   |
-| ajs_user_traits                  | .gitlaw.co | 1 year   |
-| ajs_group_id                     | .gitlaw.co | 1 year   |
-| ajs_group_properties             | .gitlaw.co | 1 year   |
-| analytics_session_id             | .gitlaw.co | 1 year   |
-| analytics_session_id.last_access | .gitlaw.co | 1 year   |
+| Cookie                           | Domain   | Duration |
+| -------------------------------- | -------- | -------- |
+| ajs_user_id                      | .git.law | 1 year   |
+| ajs_anonymous_id                 | .git.law | 1 year   |
+| ajs_user_traits                  | .git.law | 1 year   |
+| ajs_group_id                     | .git.law | 1 year   |
+| ajs_group_properties             | .git.law | 1 year   |
+| analytics_session_id             | .git.law | 1 year   |
+| analytics_session_id.last_access | .git.law | 1 year   |

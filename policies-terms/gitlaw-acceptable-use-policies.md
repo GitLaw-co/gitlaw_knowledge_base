@@ -99,7 +99,7 @@ The Service's bandwidth limitations vary based on the features you use. If we de
 
 **Short version:** _We do not generally prohibit use of GitLaw for advertising. However, we expect our users to follow certain limitations, so GitLaw does not become a spam haven. No one wants that._
 
-While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. You may include static images, links, and promotional text in the README / overview documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitLaw. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in issues.
+While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. You may include static images, links, and promotional text in the README / overview documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitLaw. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in comments.
 
 You may not promote or distribute content or activity that is illegal or otherwise prohibited by our Terms of Service or Acceptable Use Policies, including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
 

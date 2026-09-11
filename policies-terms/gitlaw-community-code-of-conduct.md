@@ -2,7 +2,7 @@
 title: GitLaw Community Code of Conduct
 slug: gitlaw-community-code-of-conduct
 category: policies-terms
-excerpt: The standards of behaviour expected in the GitLaw Community - how to collaborate respectfully, what conduct is not allowed, and how moderation works.
+excerpt: The standards of behaviour expected in the GitLaw community - how to collaborate respectfully, what conduct is not allowed, and how moderation works.
 ---
 
 **In this article**
@@ -16,57 +16,49 @@ excerpt: The standards of behaviour expected in the GitLaw Community - how to co
 
 ## Overview and Purpose
 
-Millions of developers across the world host millions of projects - both open and closed source - on GitLaw. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
+People across the world use GitLaw to draft, negotiate, and sign contracts, and to publish contract templates that anyone can use. We're fortunate to be able to play a part in that every day, which is a responsibility we don't take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
-GitLaw Community, powered by GitLaw Discussions, is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitLaw projects. By participating in GitLaw Community, you are agreeing to the same Terms of Service and GitLaw Acceptable Use Policies that apply to [GitLaw.co](https://git.law), as well as this GitLaw Community-specific Code of Conduct.
+The GitLaw community is everywhere users meet each other on GitLaw: published templates and the profiles that carry them, documents shared with collaborators and counterparties, and any feedback or discussion attached to them. By taking part, you are agreeing to the same Terms of Service and GitLaw Acceptable Use Policies that apply to [git.law](https://git.law), as well as this Code of Conduct.
 
-With this Code of Conduct, we hope to help you understand how best to collaborate in GitLaw Community, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from community participation. We will investigate any abuse reports and may moderate public content within GitLaw Community that we determine to be in violation of either the GitLaw Terms of Service or this Code of Conduct.
+With this Code of Conduct, we hope to help you understand how best to collaborate on GitLaw, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from the community. We will investigate any abuse reports and may moderate public content on GitLaw that we determine to be in violation of either the GitLaw Terms of Service or this Code of Conduct.
 
-Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitLaw an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
+Our user base brings different perspectives, ideas, and experiences, and ranges from people publishing their first template to lawyers who have practised for decades. We are committed to making GitLaw an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for people to do their best work.
 
 ## Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in GitLaw Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in the GitLaw community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Standards
 
-Treat GitLaw Community with respect. We are a shared resource - a place to share skills, knowledge, and interests through ongoing conversation.
+Treat the GitLaw community with respect. We are a shared resource - a place to share skills, knowledge, and interests through ongoing collaboration.
 
 The following are not hard and fast rules, merely aids to the human judgment of our community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
 
-### _Best Practices for Maintaining a Strong Community_
-
-The primary purpose of the GitLaw community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitLaw community.
-
-- Engage with consideration and respect.
-  - **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
-  - **Be respectful** - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
-  - **Be empathetic** - GitLaw is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitLaw a community where others feel safe to make contributions, participate in discussions, and share different ideas.
+- Be welcoming and open-minded.
+  - **Be empathetic** - GitLaw is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others' shoes and understand their feelings before you address them. Do your best to help make GitLaw a community where others feel safe to make contributions, participate, and share different ideas.
 - Contribute in a positive and constructive way.
-  - **Improve the discussion.** Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.
+  - **Improve the discussion.** Help us make this a great place to work by always working to improve the discussion in some way, however small. If you are not sure your comment adds to the conversation, think over what you want to say and try again later.
   - The topics discussed here matter to us, and we want you to act as if they matter to you, too. Be respectful of the topics and the people discussing them, even if you disagree with some of what is being said.
-  - **Be clear and stay on topic.** GitLaw Community is for collaboration, sharing ideas, and helping each other get stuff done. Off-topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
-  - This applies to sharing links, as well. Any links shared in GitLaw Community discussions should be shared with the intent of providing relevant and appropriate information. Links should not be posted to simply drive traffic or attention to a site. Links should always be accompanied by a full explanation of the content and purpose of the link. Posting links, especially unsolicited ones, without relevant and valuable context can come across as advertising or serving even more malicious purposes.
-  - **Share mindfully.** When asking others to give you feedback or collaborate on a project, only share valuable and relevant resources to provide context. Don't post links that don't add value to the discussion, and don't post unsolicited links to your own projects or sites on other user's threads.
-  - Additionally, don't share sensitive information. This includes your own email address. We don't allow the sharing of such information in GitLaw Community, as it can create security and privacy risks for the poster, as well as other users. If you'd like to invite other GitLaw users to collaborate on a project or work with you, share a link to the repository in which the project you are working on exists. By sharing the link to your project repo - with some information on what your project is and what kind of help or feedback you're looking for - you can invite others to collaborate with you via issues or pull requests without having to share your private information. You can also add others as outside collaborators on your project repo to give them special permissions to help you develop your project.
-  - **Keep it tidy.** Make the effort to put things in the right place, so that we can spend more time discussing and less time cleaning up. So:
-    - Don’t start a discussion in the wrong category.
-    - Don’t cross-post the same thing in multiple discussions.
-    - Don’t post no-content replies.
-    - Don't "bump" posts, unless you have new and relevant information to share.
-    - Don’t divert a discussion by changing it midstream.
-  - Rather than posting “+1” or “Agreed”, use the upvote button. Rather than taking an existing discussion in a radically different direction, open a new discussion.
+  - **Be clear and stay on topic.** GitLaw is for collaboration, sharing ideas, and helping each other get work done. Off-topic comments are a distraction from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
+  - This applies to sharing links, as well. Any links you share should be shared with the intent of providing relevant and appropriate information. Links should not be posted to simply drive traffic or attention to a site. Links should always be accompanied by a full explanation of the content and purpose of the link. Posting links, especially unsolicited ones, without relevant and valuable context can come across as advertising or serving even more malicious purposes.
+  - **Share mindfully.** When asking others to give you feedback or collaborate on a document, only share valuable and relevant resources to provide context. Don't share links that don't add value, and don't post unsolicited links to your own work on other people's documents.
+  - Additionally, don't share sensitive information. This includes your own email address. We don't allow the sharing of such information in public places on GitLaw, as it can create security and privacy risks for you as well as for other users. If you'd like to invite someone to work with you on a document, share the document with them directly or invite them from within it, rather than posting your contact details in public.
+  - **Keep it tidy.** Make the effort to put things in the right place, so that we can spend more time working and less time cleaning up. So:
+    - Don't publish a template into the wrong category.
+    - Don't publish the same thing several times over.
+    - Don't post no-content replies.
+    - Don't divert a discussion by changing it midstream.
 - Be trustworthy.
-  - **Always be honest.** Don’t knowingly share incorrect information or intentionally mislead other GitLaw Community participants. If you don’t know the answer to someone’s question but still want to help, you can try helping them research or find resources instead. GitLaw staff will also be active in GitLaw Community, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
+  - **Always be honest.** Don't knowingly share incorrect information or intentionally mislead other people on GitLaw. If you don't know the answer to someone's question but still want to help, you can try helping them research or find resources instead. GitLaw staff are active in the community, so if you're unsure of an answer, it's likely a moderator will be able to help.
 
 ### _What is not Allowed_
 
-GitLaw's Acceptable Use Policies, which are part of GitLaw's Terms of Service, set a baseline for what is not allowed on GitLaw. Since GitLaw Community is on [GitLaw.co](https://git.law), these terms and restrictions apply to GitLaw Community, including the following restrictions:
+GitLaw's Acceptable Use Policies, which are part of GitLaw's Terms of Service, set a baseline for what is not allowed on GitLaw. These terms and restrictions apply everywhere on [git.law](https://git.law), including the following restrictions:
 
-- **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitLaw. GitLaw does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your [GitLaw.co](https://git.law) account. We don't want to discourage you from learning to code, but those are the rules. Please see our Terms of Service for information about account termination.
+- **Anyone under the age of 16.** If you're a child under the age of 16, you may not have an account on GitLaw. GitLaw does not knowingly collect information from or direct any of our content specifically to children under 16. If we learn or have reason to suspect that you are a user who is under the age of 16, we will unfortunately have to close your [git.law](https://git.law) account. Please see our Terms of Service for information about account termination.
 - **Creating new account after account restriction.** GitLaw's Terms of Service state that "One person or legal entity may maintain no more than one free Account." Additional free accounts created to inquire about flagged or suspended accounts in GitLaw will be removed.
-- **Other conduct which could reasonably be considered inappropriate in a professional setting.** GitLaw Community is a professional space and should be treated as such.
-- **Violation of Terms of Service.** If your [GitLaw.co](https://git.law) account is identified in violation of Terms of Service we will have to close your account.
+- **Other conduct which could reasonably be considered inappropriate in a professional setting.** GitLaw is a professional space and should be treated as such.
+- **Violation of Terms of Service.** If your [git.law](https://git.law) account is identified in violation of Terms of Service we will have to close your account.
 
 ### _Reasonable use of AI generated content_
 
@@ -74,20 +66,20 @@ We love experimenting with new technologies. But as with all new technology, man
 
 - Take personal responsibility for everything you post.
 - Read and revise the content before you post it; use your own authentic voice.
-- Use your expertise as a developer to verify that the answer works and makes sense.
+- Verify that the answer is correct and makes sense before you share it.
 - Do not just post AI-generated content verbatim to inflate your reputation or give a false impression of product expertise.
-- AI tools will often answer in an authoritative tone that sounds like a tech support professional. Be careful not to mislead other users into thinking that this authoritative tone means they are receiving an official response from GitLaw.
+- AI tools will often answer in an authoritative tone that sounds like a support professional. Be careful not to mislead other users into thinking that this authoritative tone means they are receiving an official response from GitLaw.
 
-Additionally, all of the guidelines listed in the previous section (Best Practices for Maintaining a Strong Community) also apply here.
+Additionally, all of the guidelines listed in the previous section also apply here.
 
 The community is here for users to build trust through authentic reputations. Not adhering to these guidelines may, in some cases, constitute a Code of Conduct violation. Refer to the enforcement section below for more information.
 
 ## Enforcement
 
-### _What GitLaw Community Participants Can Do_
+### _What Community Participants Can Do_
 
-- **If you see a problem, report it.** Moderators have special authority; they are responsible for this GitLaw Community. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
-- When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. You can report a disruptive user or disruptive content to GitLaw. For more information, see "Reporting abuse or spam."
+- **If you see a problem, report it.** Moderators have special authority; they are responsible for this community. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
+- When you see bad behavior, don't reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone's time. Report the user or the content to GitLaw at [hey@git.law](mailto:hey@git.law) instead.
 
 ### Our Responsibilities
 
@@ -102,22 +94,20 @@ Actions we may take in response to a flag or abuse report include, but are not l
 - GitLaw Account Suspension
 - GitLaw Account Termination
 
-GitLaw Community moderators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the GitLaw Community's leadership.
+GitLaw moderators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of GitLaw's leadership.
 
 ## Contacting GitLaw Staff
 
-If, for any reason, you want to contact GitLaw Staff, the Community Managers, Administrators, or Moderators of GitLaw Community privately, you can contact GitLaw Support through the GitLaw Support portal. Contacting any member of GitLaw Staff via unsolicited mentions or pings, or via channels other than GitLaw Community itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
+If, for any reason, you want to contact GitLaw staff or moderators privately, email us at [hey@git.law](mailto:hey@git.law). Contacting any member of GitLaw staff via unsolicited mentions, or via channels other than that address, is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
-Let's work together to keep GitLaw Community a place where people feel safe to participate by being respectful of them and their time.
+Let's work together to keep GitLaw a place where people feel safe to participate by being respectful of them and their time.
 
 ## Legal Notices
 
-Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a Terms of Service, which includes our Acceptable Use Policies, and our Privacy Statement describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our Terms of Service, GitLaw Acceptable Use Policies and the Privacy Statement.
+Yes, legalese is boring, but we must protect ourselves - and by extension, you and your data - against unfriendly folks. We have a Terms of Service, which includes our Acceptable Use Policies, and a [Privacy Policy](https://git.law/privacy-policy) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our Terms of Service, GitLaw Acceptable Use Policies and the Privacy Policy.
 
 This Code of Conduct does not modify our Terms of Service - which includes our Acceptable Use Policies - and is not intended to be a complete list. GitLaw retains full discretion under the Terms of Service to remove or restrict any content or accounts for activity that violates those policies, including because it is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable, or violates any party's intellectual property or our Terms of Service. This Code of Conduct describes when we will exercise that discretion.
 
 ### Data Retention and Deletion of Data
 
-If you're a GitLaw user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting GitLaw Support through the GitLaw Support portal. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the GitLaw Privacy Statement.
-
-#
+If you're a GitLaw user, you may access, update, alter, or delete your basic user profile information by editing your user profile or by emailing [hey@git.law](mailto:hey@git.law). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitLaw Privacy Policy](https://git.law/privacy-policy).

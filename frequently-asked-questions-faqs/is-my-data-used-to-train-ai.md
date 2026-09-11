@@ -35,6 +35,6 @@ The third-party providers that process data on GitLaw's behalf are listed in the
 - [How GitLaw Protects Your Data and Personal Information](/knowledge-base/how-gitlaw-protects-your-data-and-personal-information) - full overview of encryption, access controls, and AI processing
 - [Where We Store Data](/knowledge-base/where-we-store-data) - data storage locations and infrastructure
 - [GitLaw Subprocessors](/knowledge-base/gitlaw-subprocessors) - authorised third-party processors
-- [Privacy Statement](/knowledge-base/privacy-policies---gitlaw-general-privacy-statement) - full privacy policy
+- [Privacy Policy](https://git.law/privacy-policy) - how GitLaw handles Personal Data
 
 Questions? Contact us at privacy@git.law or reach our Data Protection Officer at dpo@git.law.

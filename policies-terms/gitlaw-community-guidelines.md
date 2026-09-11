@@ -27,15 +27,15 @@ The primary purpose of the GitLaw community is to collaborate on legal documents
 
 ###### What if something or someone offends you?
 
-While some disagreements can be resolved with direct, respectful communication between community members, we understand that is not always the case. We encourage our community to contact GitLaw Support through the GitLaw Support portal when they believe content or activity they’ve encountered violates our policies. However, if you run into something or someone on the site that you find objectionable, here are some ways GitLaw enables you to take action:
+While some disagreements can be resolved with direct, respectful communication between community members, we understand that is not always the case. We encourage our community to email us at [hey@git.law](mailto:hey@git.law) when they believe content or activity they've encountered violates our policies. However, if you run into something or someone on the site that you find objectionable, here are some ways GitLaw enables you to take action:
 
 - **Communicate expectations** - Maintainers can set community-specific guidelines to help users understand how to interact with their projects, for example, in a repository’s README (overview) or dedicated code of conduct.
-- **Moderate Comments** - Users with write-access privileges for a repository can edit, delete, or hide anyone's comments on commits, pull requests, and issues. Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can also delete sensitive information from a comment's edit history. Moderating your projects can feel like a big task if there is a lot of activity, but you can add collaborators to assist you in managing your community.
-- **Lock Conversations**  - If a discussion in an issue, pull request, or commit gets out of hand, off topic, or violates your project’s code of conduct or GitLaw’s policies, owners, collaborators, and anyone else with write access can put a temporary or permanent lock on the conversation. For more information, see "Locking conversations."
+- **Moderate Comments** - Users with edit access to a document can edit, delete, or hide comments on it. Comment authors and people with edit access can also remove sensitive information from a comment. Moderating your documents can feel like a big task if there is a lot of activity, but you can share access with collaborators to assist you.
+- **Lock Conversations** - If a discussion on a document or change request gets out of hand, off topic, or violates GitLaw's policies, the owner and anyone else with edit access can put a temporary or permanent lock on the conversation.
 - **Block Users**  - If you encounter a specific user who you would rather not engage with, you can block the user from your personal account or from your organization.
 - **Limit Interactions** - If your public project is getting unwanted attention, being trolled, spammed, or otherwise, you have the option of setting temporary interaction limits to keep certain users from interacting with your repository.
 
-While we are passionate about empowering maintainers to moderate their own projects, please contact us through the GitLaw Support portal if you need additional support in dealing with a situation.
+While we are passionate about empowering maintainers to moderate their own projects, please email us at [hey@git.law](mailto:hey@git.law) if you need additional support in dealing with a situation.
 
 ###### What happens if someone violates GitLaw's policies?
 

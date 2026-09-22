@@ -25,6 +25,7 @@ When you create or join an organisation on GitLaw, every member is assigned one 
 
 - Can invite and remove Members and Admins
 - Can change roles for Members and Admins (but cannot grant or revoke the Owner role)
+- Can manage billing, including changing, cancelling or pausing the plan
 - **Cannot** see organisation files unless they have been explicitly shared with them
 - Can downgrade their own role to Member
 

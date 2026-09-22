@@ -15,11 +15,11 @@ A GitLaw organisation is a shared workspace for your team. Documents created ins
 
 ## Roles at a glance
 
-| Role       | Sees all org files | Invites members | Removes members  | Changes roles          | Edits org settings |
-| ---------- | ------------------ | --------------- | ---------------- | ---------------------- | ------------------ |
-| **Owner**  | No (unless shared) | Yes             | Yes              | Owner / Admin / Member | Yes                |
-| **Admin**  | No (unless shared) | Yes             | Yes (not Owners) | Admin / Member only    | No                 |
-| **Member** | No (unless shared) | No              | No               | No                     | No                 |
+| Role       | Sees all org files | Invites members | Removes members  | Changes roles          | Edits org settings | Manages billing |
+| ---------- | ------------------ | --------------- | ---------------- | ---------------------- | ------------------ | --------------- |
+| **Owner**  | No (unless shared) | Yes             | Yes              | Owner / Admin / Member | Yes                | Yes             |
+| **Admin**  | No (unless shared) | Yes             | Yes (not Owners) | Admin / Member only    | No                 | Yes             |
+| **Member** | No (unless shared) | No              | No               | No                     | No                 | No              |
 
 There must always be at least one Owner. An Owner can only leave or remove their own Owner role if another Owner already exists.
 

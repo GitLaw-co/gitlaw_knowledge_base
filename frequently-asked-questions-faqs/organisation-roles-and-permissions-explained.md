@@ -19,10 +19,10 @@ They're independent. **Being an Org Admin does not let you read everyone's docum
 | Role          | Can do                                                          | Sees files?                                      |
 | ------------- | --------------------------------------------------------------- | ------------------------------------------------ |
 | **Org Owner** | Full control - people, roles, billing, settings                 | Only files they own or that are shared with them |
-| **Org Admin** | Invite and remove members, change roles (but not manage Owners) | Same as a Member - no special access             |
+| **Org Admin** | Invite and remove members, change roles (but not manage Owners), billing | Same as a Member - no special access             |
 | **Member**    | No admin powers; can leave anytime                              | Org-shared files, plus files shared with them    |
 
-There must always be at least one Org Owner. An Org Admin can manage people but can't touch Owners - and gets **no** special access to anyone's private documents.
+There must always be at least one Org Owner. Owners and Admins both manage billing, including changing, cancelling or pausing the plan. An Org Admin can manage people but can't touch Owners - and gets **no** special access to anyone's private documents.
 
 ## Document roles: who can open a specific file
 

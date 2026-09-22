@@ -12,7 +12,7 @@ You pay for **Paid Members** of your own organisation. Two things never touch yo
 Everyone in your organisation is a full member of the team. The difference is who funds their seat.
 
 - **Paid Member** - a seat your organisation pays for. This is what "billable seat" means.
-- **Free Member** - a full member who costs you nothing. They use the free AI allowance funded by GitLaw. Good for part-time collaborators, contractors, or family who don't need a paid seat.
+- **Free Member** - a full member who costs you nothing. They use the free AI allowance funded by GitLaw, and can't use your organisation's top-up credits. Good for part-time collaborators, contractors, or family who don't need a paid seat.
 
 Both are proper members with access to your shared documents. You just only pay for the Paid ones.
 

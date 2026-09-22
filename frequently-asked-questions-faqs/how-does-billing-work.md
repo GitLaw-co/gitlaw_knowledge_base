@@ -52,9 +52,9 @@ Each seat gets a **monthly allowance** that resets every billing cycle. Allowanc
 If someone runs out, you have two options:
 
 - **Upgrade** from Free to Pro for a larger allowance per seat, or
-- **Buy a top-up** - extra credits your whole organisation shares.
+- **Buy a top-up** - extra credits your Paid Members share.
 
-Top-ups are pooled at the organisation level. They kick in only after a member's own monthly allowance runs out, and - unlike the monthly allowance - **they roll over and don't expire**. See [AI credits and top-ups](/knowledge-base/ai-credits-and-top-ups).
+Top-ups are pooled at the organisation level. They kick in only after a Paid Member's own monthly allowance runs out - Free Members use only their own allowance - and - unlike the monthly allowance - **they roll over and don't expire**. See [AI credits and top-ups](/knowledge-base/ai-credits-and-top-ups).
 
 ## Sharing is always free
 
@@ -71,5 +71,5 @@ You keep your $20/month rate on Pro, with the same features as new Pro members -
 | How is Pro priced?                                    | Per seat - you pay for each full member of your organisation.    |
 | Do I pay for people I share with?                     | No. They use their own organisation and their own credits.       |
 | Do monthly credits roll over?                         | No - the monthly allowance resets each cycle. Top-ups roll over. |
-| What if I run out of credits?                         | Upgrade Free→Pro, or buy an org-shared top-up.                   |
+| What if I run out of credits?                         | Upgrade Free→Pro. On a paid seat, you can also use your org's top-ups. |
 | I already pay $20/month - does that change? | No. You keep $20/month on Pro with the same features.  |

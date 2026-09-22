@@ -24,8 +24,8 @@ Two things to know:
 
 When you need more, buy a **top-up**. Top-ups work differently in three ways:
 
-- **Pooled at the organisation level** - shared by the whole team, not tied to one person.
-- **Used after a member's own allowance runs out** - GitLaw spends the monthly allowance first, then the shared pool.
+- **Pooled at the organisation level** - shared by every Paid Member, not tied to one person.
+- **Used after a Paid Member's own allowance runs out** - GitLaw spends the monthly allowance first, then the shared pool. Free Members don't draw on the pool: when their own allowance runs out, they can ask an Owner or Admin for a paid seat.
 - **They roll over** - top-up credits don't expire. They stay in your pool until you use them.
 
 Top-ups come in fixed amounts - for example, $25 or $50.
@@ -35,12 +35,12 @@ Top-ups come in fixed amounts - for example, $25 or $50.
 | Feature         | Monthly allowance        | Top-ups                               |
 | --------------- | ------------------------ | ------------------------------------- |
 | Comes from      | Your tier                | A one-off purchase                    |
-| Belongs to      | Each member individually | The whole organisation (pooled)       |
-| Used            | First                    | After the member's allowance runs out |
+| Belongs to      | Each member individually | The organisation's Paid Members (pooled) |
+| Used            | First                    | After a Paid Member's allowance runs out |
 | At end of cycle | Resets (unused is lost)  | Rolls over (never expires)            |
 
 ## When to top up vs upgrade
 
-One member keeps running out? **Upgrade** them Free → Pro for a bigger allowance every cycle. Team has the occasional busy stretch? A **top-up** adds shared credits that keep until you need them. Many teams do both.
+One member keeps running out? **Upgrade** them Free → Pro for a bigger allowance every cycle - a Free Member can't use top-ups, so a paid seat is their only way to more credits. Team has the occasional busy stretch? A **top-up** adds shared credits for your Paid Members that keep until you need them. Many teams do both.
 
 You buy top-ups from your organisation's billing settings - they're available right away. For the wider picture, see [How does billing work?](/knowledge-base/how-does-billing-work).

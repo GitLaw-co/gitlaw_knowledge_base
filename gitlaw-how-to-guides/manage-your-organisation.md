@@ -2,7 +2,7 @@
 title: 'Manage your organisation: roles, members and seats'
 slug: manage-your-organisation
 category: gitlaw-how-to-guides
-excerpt: 'Learn how to create a GitLaw organisation, invite and remove members, understand Owner vs Admin vs Member roles, manage the shared AI credit pool, and off-board users safely.'
+excerpt: 'Learn how to create a GitLaw organisation, invite and remove members, understand Owner vs Admin vs Member roles, manage AI credits and top-ups, and off-board users safely.'
 ---
 
 A GitLaw organisation is a shared workspace for your team. Documents created inside an organisation workspace are owned by the organisation - not the individual who created them - so your firm's work stays with the firm even when people move on.
@@ -31,7 +31,7 @@ For full details on document-level access (Viewer, Editor, Owner), see [File sha
 2. Enter the person's email address and select a role.
 3. They receive an invitation to join. Once accepted, they can create and collaborate on organisation documents.
 
-Seats are unlimited on every plan - invite your whole team without worrying about per-seat charges. See [How does billing work?](/knowledge-base/how-does-billing-work) for plan details.
+You can invite as many members as you like. You pay only for Paid Members; Free Members cost you nothing. See [How does billing work?](/knowledge-base/how-does-billing-work) for plan details.
 
 ## Change a member's role
 
@@ -40,9 +40,9 @@ Seats are unlimited on every plan - invite your whole team without worrying abou
 
 Owners can change any role. Admins can change Member and Admin roles but cannot grant or revoke the Owner role.
 
-## Shared AI credit pool
+## AI credits and top-ups
 
-Every organisation has a single shared credit pool. All members draw from it - there is no per-person allocation. You can monitor usage and top up credits from your organisation settings.
+Each member has their own monthly AI allowance. Top-ups you buy go into a shared pool that Paid Members draw on once their own allowance runs out. Free Members use only their own allowance. Owners and Admins can monitor usage and buy top-ups from your organisation settings. See [AI credits and top-ups](/knowledge-base/ai-credits-and-top-ups).
 
 ## Remove a member (off-boarding)
 

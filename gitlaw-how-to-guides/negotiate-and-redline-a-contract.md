@@ -17,13 +17,13 @@ GitLaw supports the complete negotiation lifecycle: draft, share, redline, count
    ***
 
 2. **Share the draft with the counterparty**
-   Invite the other side by email from the document's share panel. Counterparties receive **Viewer** access by default, meaning they can read the document and create their own working copy but cannot edit your original. For a detailed explanation of roles, see [File sharing permissions in personal and organisation accounts](/knowledge-base/file-sharing-permissions-in-personal-and-organisation-accounts) and [Share a document or invite a counterparty](/knowledge-base/share-a-document-or-invite-a-counterparty).
+   Invite the other side by email from the document's share panel and choose their role. New invitees get **Editor** access by default, which lets them edit your original and see every earlier version. To keep your earlier drafts private, choose **Viewer** - they can read the current version and create their own working copy, but cannot edit your original or see its version history. For a detailed explanation of roles, see [File sharing permissions in personal and organisation accounts](/knowledge-base/file-sharing-permissions-in-personal-and-organisation-accounts) and [Share a document or invite a counterparty](/knowledge-base/share-a-document-or-invite-a-counterparty).
 
-   | Role                          | Can do                                                      |
-   | ----------------------------- | ----------------------------------------------------------- |
-   | Viewer (counterparty default) | Read, copy the document, submit a change request            |
-   | Editor                        | Edit, accept/reject changes, reshare                        |
-   | Owner                         | Full control, including deletion and participant management |
+   | Role   | Can do                                                               |
+   | ------ | -------------------------------------------------------------------- |
+   | Viewer | Read the current version, copy the document, submit a change request |
+   | Editor | Edit, see earlier versions, accept/reject changes, reshare           |
+   | Owner  | Full control, including deletion and participant management          |
 
    ***
 

@@ -13,11 +13,13 @@ For a full breakdown of what each role can do, see [File sharing permissions in 
 
 ### Roles at a glance
 
-| Role       | Can edit | Can share | Can manage participants | Can delete |
-| ---------- | -------- | --------- | ----------------------- | ---------- |
-| **Owner**  | Yes      | Yes       | Yes (full control)      | Yes        |
-| **Editor** | Yes      | Yes       | Yes (with limits)       | No         |
-| **Viewer** | No       | No        | No                      | No         |
+| Role       | Can edit | Can see earlier versions | Can share | Can manage participants | Can delete |
+| ---------- | -------- | ------------------------ | --------- | ----------------------- | ---------- |
+| **Owner**  | Yes      | Yes                      | Yes       | Yes (full control)      | Yes        |
+| **Editor** | Yes      | Yes                      | Yes       | Yes (with limits)       | No         |
+| **Viewer** | No       | No                       | No        | No                      | No         |
+
+Editors can open the document's full version history, including every earlier draft. Viewers see only the current version. If earlier drafts contain anything you would not send to this person, share with **Viewer**.
 
 Editors can invite new participants and promote others to Editor, but cannot remove Owners or grant the Owner role.
 
@@ -55,7 +57,7 @@ A document can have one active shared link at a time. Updating the settings on a
 
 Sharing with an external counterparty (for example, the other side in a contract negotiation) follows the same steps as inviting anyone else. A few things to keep in mind:
 
-- Share with **Viewer** access so counterparties can review the document without making direct changes.
+- Share with **Viewer** access so counterparties can review the document without making direct changes and without seeing your earlier drafts. Viewers see only the current version.
 - A Viewer can create their own copy of the document, make edits to that copy, and submit it back to you as a **change request** for your review.
 - Counterparties have no visibility into your organisation, its members, or any other documents - they only see what you share with them.
 

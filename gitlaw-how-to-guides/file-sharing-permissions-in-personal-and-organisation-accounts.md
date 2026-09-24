@@ -51,15 +51,16 @@ Separately from your organisation role, every document has its own set of permis
 ### Editor
 
 - Can edit the document and accept or reject changes
+- Can see the document's earlier versions
 - Can share the document with others and invite new participants
 - Can promote other participants to Editor
 - **Cannot** remove Owners, grant the Owner role, or delete the document
 
 ### Viewer
 
-- Can view the document (read-only)
+- Can view the current version of the document (read-only)
 - Can create their own copy of the document
-- **Cannot** edit, share, or see the list of other participants
+- **Cannot** edit, share, see earlier versions, or see the list of other participants
 
 ### General access settings
 
@@ -77,7 +78,7 @@ You can share documents with people **outside** your organisation - such as coun
 External participants:
 
 - Receive access only to the specific documents shared with them
-- In legal negotiations, as long as you share **view-only** access, counterparties receive **view-only** access
+- In legal negotiations, as long as you share **view-only** access, counterparties receive **view-only** access and see only the current version, not your earlier drafts
 - Can create their own copy of the document
 - Can submit their changes back to you via a **change request** for your review
 - Have **no visibility** into your organisation, its members, or any other documents
@@ -92,6 +93,9 @@ No. Only Org Owners have that visibility.
 
 **Can a Viewer share my document with others?**
 No. Only Owners and Editors can share. NOTE: Viewers are able to make copies which they can share (as their own documents)
+
+**Can a Viewer see earlier versions of my document?**
+No. Viewers see only the current version. Owners and Editors can open the full version history.
 
 **Can external parties see my other documents?**
 No. They only see what you share with them.

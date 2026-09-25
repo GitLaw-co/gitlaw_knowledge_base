@@ -37,7 +37,7 @@ Your lawyer gets an email with your message and a link to open the document. The
 What happens next:
 
 1. **You send the request.** Your message and the access you picked go to GitLaw's concierge team. Nothing else is shared.
-2. **We find your match.** A real person picks a lawyer licensed in the jurisdiction that fits your request - usually within 4 hours. We'll email you.
+2. **We find your match.** A real person picks a lawyer licensed in the jurisdiction relevant to your request - usually within 4 hours. We'll email you.
 3. **You decide.** The lawyer is invited in with the access you approved. You engage and pay them directly - and you're free to say no.
 
 ![How Find me a lawyer works: you send the request, we find your match, you decide](https://git.law/kb-images/lawyer-loop-in/how-find-me-a-lawyer-works.png)

@@ -33,6 +33,7 @@ Frequently asked questions
 - [Does GitLaw have Teams?](frequently-asked-questions-faqs/does-gitlaw-have-teams.md)
 - [Does my external lawyer or accountant see everything in my organisation?](frequently-asked-questions-faqs/does-my-external-lawyer-see-everything.md)
 - [Does the other party need a GitLaw account to sign or negotiate?](frequently-asked-questions-faqs/does-the-other-party-need-a-gitlaw-account.md)
+- [How do I add a lawyer to review my document?](frequently-asked-questions-faqs/how-do-i-add-a-lawyer-to-review-my-document.md)
 - [How do I cancel or change my plan?](frequently-asked-questions-faqs/how-do-i-cancel-or-change-my-plan.md)
 - [How does billing work?](frequently-asked-questions-faqs/how-does-billing-work.md)
 - [How does GitLaw review and redline my contracts?](frequently-asked-questions-faqs/how-does-gitlaw-review-and-redline-my-contracts.md)

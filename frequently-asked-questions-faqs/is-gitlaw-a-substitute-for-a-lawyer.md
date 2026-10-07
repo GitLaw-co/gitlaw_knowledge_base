@@ -21,8 +21,8 @@ No. GitLaw is a powerful tool for drafting and reviewing contracts, but it is no
 
 #### A note on human review
 
-GitLaw is designed to complement professional legal advice, not replace it. We are building a marketplace where you will be able to request review of an AI-generated document by a verified, practising lawyer directly within GitLaw - getting human validation at lower cost and faster turnaround than traditional legal services. This feature is not yet available, but it reflects our belief that AI and lawyers work best together.
+GitLaw is designed to complement professional legal advice, not replace it. When a document is worth a human look, GitLaw Agent offers to add a lawyer from the chat - invite your own, or ask our concierge to find you one. See [How do I add a lawyer to review my document?](/knowledge-base/how-do-i-add-a-lawyer-to-review-my-document)
 
-In the meantime, the best practice is to use GitLaw to prepare a thorough first draft, then have a lawyer review it before signing anything consequential. See [Create a draft document using Agent](/knowledge-base/create-a-draft-document-using-agent) and [Review a document using Agent](/knowledge-base/review-a-document-using-agent) for how to get the most out of GitLaw before involving a lawyer.
+The best practice is to use GitLaw to prepare a thorough first draft, then have a lawyer review it before signing anything consequential. See [Create a draft document using Agent](/knowledge-base/create-a-draft-document-using-agent) and [Review a document using Agent](/knowledge-base/review-a-document-using-agent) for how to get the most out of GitLaw before involving a lawyer.
 
 > **Disclaimer:** GitLaw is not a law firm and does not provide legal advice. Nothing produced by GitLaw constitutes legal advice or creates an attorney–client relationship. For advice specific to your situation, please consult a qualified legal professional.

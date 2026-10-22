@@ -9,13 +9,13 @@ GitLaw uses **Track Changes** - the same revision marks you'd see in Microsoft W
 
 ### Turning Track Changes on and off
 
-When Track Changes is on, every edit you make is recorded as a tracked change rather than applied directly to the document.
+When Track Changes is on, every edit you make is recorded as a tracked change rather than applied directly to the document. It is off until you turn it on, with one exception: a document you open from a share link starts with Track Changes on, so your edits reach the sender as revision marks.
 
 1. **Open the document** in the GitLaw Editor.
 2. **Toggle Track Changes on** using the control in the editor toolbar. When enabled, the control is highlighted and subsequent edits appear as coloured insertions or strikethrough deletions attributed to your name.
 3. **Toggle it off** to return to direct editing. Changes you already made with Track Changes on remain as revision marks until accepted or rejected.
 
-The AI Agent follows the same toggle. When Track Changes is on, Agent edits also appear as tracked changes attributed to you - your counterparty sees your name, not the AI's.
+This toggle covers only your own edits. Whether the AI Agent tracks its edits is set in the chat's agent mode: choose **Edit with track changes** and Agent edits appear as tracked changes attributed to you - your counterparty sees your name, not the AI's; choose **Edit directly** and they are applied straight to the document.
 
 ### Reviewing tracked changes
 

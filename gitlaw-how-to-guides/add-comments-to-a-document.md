@@ -10,8 +10,13 @@ Comments in GitLaw are anchored to the exact text you highlight, kept in a separ
 ### Add a comment
 
 1. Select the text you want to annotate - this can span a single word, a clause, or multiple paragraphs.
-2. A context menu or toolbar option will appear; click **Comment**.
-3. Type your note and submit. The highlighted range gains a visual indicator in the document body.
+2. Click the comment icon that appears in the right margin, level with your selection.
+
+   ![Selected text with the comment icon in the margin](https://git.law/kb-images/add-comments-to-a-document/comment-button.png "ring: 81.8 30 5.2 60")
+
+3. Type your note and click **Comment**. The highlighted range gains a visual indicator in the document body.
+
+   ![The comment box in the margin with the Comment button](https://git.law/kb-images/add-comments-to-a-document/comment-box.png "ring: 67 13 32.5 85")
 
 Comments carry your name and a timestamp automatically.
 

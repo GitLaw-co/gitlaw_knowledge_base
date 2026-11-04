@@ -11,9 +11,9 @@ You set the jurisdiction and the Agent drafts, reviews, and adapts clauses accor
 
 There are three ways to control it:
 
-1. **Profile default** - Go to **Settings → Profile** and open **Jurisdiction** to set a default that applies to every new chat and document. Pick from the searchable list of supported jurisdictions.
-2. **Per chat** - Open the jurisdiction chip above the message box. It shows the jurisdiction currently in effect, and you can pick another one for that chat. Useful when you're switching between matters in different countries.
-3. **In your prompt** - Just name it: _"Draft a mutual NDA governed by English law."_ The Agent picks it up and adjusts automatically, even if your profile is set elsewhere.
+- **Profile default** - Go to **Settings → Profile** and open **Jurisdiction** to set a default that applies to every new chat and document. Pick from the searchable list of supported jurisdictions.
+- **Per chat** - Open the jurisdiction chip above the message box. It shows the jurisdiction currently in effect, and you can pick another one for that chat. Useful when you're switching between matters in different countries.
+- **In your prompt** - Just name it: _"Draft a mutual NDA governed by English law."_ The Agent picks it up and adjusts automatically, even if your profile is set elsewhere.
 
 For step-by-step instructions, see [Set your jurisdiction](/knowledge-base/set-your-jurisdiction).
 

@@ -33,9 +33,14 @@ Facts the Agent learns are written to Memory and are always visible and reversib
 
 Your context files are collected under **Memory** in the sidebar, in the **Context** section. From there you can:
 
+![The Memories tab with memory cards and the Add memory button](https://git.law/kb-images/use-memory-and-context-files/memory-list.png "ring: 89.2 37.5 10.3 7")
+
 - Filter by scope (Profile, Memory, Playbook, Contact)
 - Click any entry to read the full note
-- Edit the body inline and save your changes
+- Click **Edit** to change the text, or **Download** to keep a copy
+- Click **Add memory** to write a new entry yourself
+
+![An open memory with the Edit and Download buttons](https://git.law/kb-images/use-memory-and-context-files/playbook-detail.png "ring: 84 5 15 11")
 
 Contact-specific notes are also accessible from a contact's detail view. File summaries appear on the file detail page alongside the extracted structured fields.
 

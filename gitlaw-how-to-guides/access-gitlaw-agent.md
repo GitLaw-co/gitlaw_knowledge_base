@@ -11,17 +11,15 @@ GitLaw combines lawyer‑vetted templates with an AI agent that can draft or rev
 
 1.  **Sign up or log in:** Make sure you have a GitLaw account. Follow the registration steps described in the Getting Started guide.
     ***
-2.  **Start a new chat:** Access the chat from the [git.law](https://git.law) or clicking New Chat in the left side panel.
+2.  **Start a new chat:** Access the chat from the Home page at [git.law](https://git.law), or click **New chat** at the bottom of the left sidebar.
 
-3.  In the chat interface, you will see a blank conversation area with few prompt suggestions at the bottom. The Agent understands your plain-language instructions and **will ask for confirmations where required**.
+    ![New chat in the left sidebar](https://git.law/kb-images/access-gitlaw-agent/sidebar-new-chat.png "narrow; ring: 4 6 50 38")
 
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/690af11353819b6a6153dfc1_Adobe%20Express%20-%20GitLaw%20-%20Create%20and%20redline%20contracts%20by%20chatting%20with%20AI%20-%205%20November%202025%20(1).gif>)
+3.  In the chat interface, you will see the chat box, with **See what GitLaw can do** below it for ideas. The Agent understands your plain-language instructions and **will ask for confirmations where required**.
 
-Open a new chat from left hand panel, type your prompt, or start with popular requests
+![The chat box on the Home page](https://git.law/kb-images/access-gitlaw-agent/home-chat.png "ring: 1.2 43.5 97.5 34")
 
-![__wf_reserved_inherit](https://cdn.prod.website-files.com/68612182f9d418e4929f7519/690aecd4db95fa73ad82bcab_Adobe%20Express%20-%20GitLaw%20-%20Create%20and%20redline%20contracts%20by%20chatting%20with%20AI%20-%205%20November%202025.gif)
-
-Check jurisdiction before starting a chat
+![The jurisdiction chip in the chat box and its searchable list](https://git.law/kb-images/access-gitlaw-agent/chat-jurisdiction.png "ring: 6.3 14.5 15.6 6")
 
 💡Always remember to set your jurisdiction to get best quality first drafts and reviews. [Click here](/knowledge-base/set-your-jurisdiction) to learn how.
 

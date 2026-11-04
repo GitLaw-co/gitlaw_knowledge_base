@@ -12,7 +12,7 @@ GitLaw uses **Track Changes** - the same revision marks you'd see in Microsoft W
 When Track Changes is on, every edit you make is recorded as a tracked change rather than applied directly to the document.
 
 1. **Open the document** in the GitLaw Editor.
-2. **Toggle Track Changes on** using the control in the editor toolbar. When enabled, the control is highlighted and subsequent edits appear as coloured insertions or strikethrough deletions attributed to your name.
+2. **Toggle Track Changes on** using the **Track changes** switch at the right of the editor toolbar. When enabled, the control is highlighted and subsequent edits appear as coloured insertions or strikethrough deletions attributed to your name.
 3. **Toggle it off** to return to direct editing. Changes you already made with Track Changes on remain as revision marks until accepted or rejected.
 
 The AI Agent follows the same toggle. When Track Changes is on, Agent edits also appear as tracked changes attributed to you - your counterparty sees your name, not the AI's.
@@ -23,14 +23,23 @@ Insertions appear as coloured text and deletions appear as strikethrough, each l
 
 ### Accepting or rejecting individual changes
 
-1. **Click on a tracked change** in the document. An action popover appears.
-2. Choose **Accept** to apply the change (insertions stay, deletions are removed) or **Reject** to discard it (insertions are removed, deletions are restored).
+1. **Click on a tracked change** in the document. Its card opens in the right margin, showing the old and new text, who made the change and when.
+
+   ![A tracked change with its card open in the margin, showing the reject and accept buttons](https://git.law/kb-images/accept-or-reject-tracked-changes/tc-change-card.png "ring: 8.3 17 10 7; ring: 92.5 22 6 10.5")
+
+2. Click **✓** to accept the change (insertions stay, deletions are removed) or **✕** to reject it (insertions are removed, deletions are restored).
+
+You can also comment on the change from its card, and step through the changes with the arrows at the bottom of the card.
 
 Each accept or reject creates a new version in history, so nothing is lost. You can [view and restore version history](/knowledge-base/view-and-restore-version-history) at any time.
 
 ### Accepting or rejecting all changes at once
 
-To resolve several changes at once, use the change list in chat when the Agent has proposed edits, or the review panel of an incoming change request - both offer **Accept all** and **Reject all**. In the document itself, changes are accepted or rejected one at a time.
+In the editor, click the **changes** button in the toolbar (it shows how many changes are open, for example **6 changes**) and choose **Accept all** or **Reject all**.
+
+![The changes menu in the editor toolbar with Accept all and Reject all](https://git.law/kb-images/accept-or-reject-tracked-changes/tc-bulk.png "ring: 9.5 25 47.5 72")
+
+Changes proposed in chat also have their own bulk controls: the change list in chat when the Agent has proposed edits, and the review panel of an incoming change request.
 
 ### Changes from Word documents
 

@@ -9,14 +9,19 @@ Never miss a renewal window or payment deadline. GitLaw lets you attach reminder
 
 ### Create a reminder manually
 
-1. **Open the Reminders area** from the main navigation.
-2. **Click "New reminder"** and give it a name (for example, "Acme MSA renewal").
-3. **Set the due date** - the date you want to be reminded.
-4. **Optionally link the reminder** to one or more documents or contacts so it appears on their detail views.
-5. **Choose a recurrence** if the deadline repeats - options include daily, weekly, monthly, quarterly, yearly, or a custom interval.
-6. **Add a note** (optional) for any context you want included in the reminder email.
-7. **Choose who to notify.** In an organisation, set the **Notify** field - **No one**, **All members**, or **Specific people**. Everyone on that list receives the reminder email.
-8. **Save.** GitLaw emails the chosen recipients when the due date is reached.
+1. **Open Notifications** from the left sidebar. Reminders and actions are listed here, grouped by when they are due.
+
+   ![The Notifications page with reminders grouped into Overdue and Upcoming, and the + button at the top right](https://git.law/kb-images/set-reminders-for-key-dates/notifications-list.png "ring: 97 1.5 3 11")
+
+2. **Click +** at the top right. The **New action** form opens.
+3. **Describe what needs doing** (for example, "Acme MSA renewal").
+4. **Pick when to be reminded:** **Today**, **Tomorrow**, **In a week**, or **Pick date & time** for a specific date and time. Leave **No reminder** to track the action without a reminder.
+5. **Add a note** (optional) for any context you want included.
+6. **Link a contact or document** (optional) with **Add contact** or **Add document**, so the reminder appears on their detail views.
+7. **Choose who to notify:** **Only the assignee**, **All members**, or **Specific people**. Everyone on that list receives the reminder email.
+8. **Click Add.** GitLaw emails the chosen recipients when the reminder date is reached.
+
+   ![The New action form with reminder options and who to notify](https://git.law/kb-images/set-reminders-for-key-dates/new-action.png "ring: 4 26 91 9; ring: 4 77.5 40 12")
 
 ### How reminders are organised
 
@@ -29,7 +34,7 @@ Reminders are grouped into four buckets:
 | **This week** | Due later this week (after today)               |
 | **Upcoming**  | Due beyond this week                            |
 
-Completed reminders are kept separately and do not appear in the urgency groups unless you choose to view them.
+Completed reminders are kept separately and do not appear in the urgency groups unless you turn on **Show completed**.
 
 ### Recurring reminders
 

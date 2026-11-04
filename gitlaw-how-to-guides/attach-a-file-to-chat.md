@@ -11,7 +11,11 @@ You can attach an existing Word or PDF file to a GitLaw chat session. Before mak
 
 1. **Open a chat session:** Start a new chat or open an existing one.
 
-2. **Attach your file:** Click the attachment button in the chat input and select a DOCX, PDF, MD or HTML file from your device. The file is added to your GitLaw files once you send the message.
+2. **Attach your file:** Click **+** at the bottom left of the chat input and choose **Upload files** to pick a DOCX, PDF, MD or HTML file from your device, or **Add from Google Drive**, **Add from OneDrive**, **Add from Dropbox** or **Add from your Files**.
+
+   ![The attach menu with Upload files, Add from Google Drive, OneDrive, Dropbox and your Files](https://git.law/kb-images/attach-a-file-to-chat/chat-attach.png "ring: 3.5 85 4.5 9; ring: 2.5 3 57 80")
+
+   The file is added to your GitLaw files once you send the message.
 
 3. **State your intent clearly:** Type your instruction in the same message (or immediately after). The Agent uses your wording to decide what to do with the file - see the table below.
 
@@ -35,7 +39,7 @@ You can attach an existing Word or PDF file to a GitLaw chat session. Before mak
 
 1. **Check the file opened in the editor:** After the Agent acts, confirm it has opened the right file - the original or the new copy - before reviewing changes.
 
-2. **Use version history:** For edited files, open the version history panel on the right to compare against the original if needed.
+2. **Use version history:** For edited files, open **Version history** from the **…** menu next to the document title to compare against the original if needed.
 
 3. **Keep templates clean:** If you regularly reuse a contract template, always attach it with template-style phrasing so the original is never consumed.
 

@@ -23,6 +23,10 @@ The Agent uses the playbook to:
 - Suggest alternative wording drawn from your standard clauses rather than generic templates.
 - Highlight any clause the counterparty has changed that touches a non-negotiable item.
 
+Your playbooks are listed in **Memory → Memories** with a **Playbook** chip. Open one to read it, or click **Edit** to change your positions.
+
+![A playbook card on the Memories tab](https://git.law/kb-images/use-playbooks-and-negotiation-posture/memory-list.png "ring: 0.5 77.5 32.5 21.5")
+
 Playbooks are private to your organisation. The counterparty's agent works only from their own playbook - your positions, tactics, and internal notes are never shared. See [Negotiate and redline a contract](/knowledge-base/negotiate-and-redline-a-contract) for how data isolation works across parties.
 
 ---

@@ -25,6 +25,8 @@ GitLaw supports the complete negotiation lifecycle: draft, share, redline, count
    | Editor | Edit, see earlier versions, accept/reject changes, reshare           |
    | Owner  | Full control, including deletion and participant management          |
 
+   ![The share invite step with the role picker and Send button](https://git.law/kb-images/negotiate-and-redline-a-contract/share-invite.png "ring: 72.5 42.5 23 8.5")
+
    ***
 
 3. **Counterparty redlines their copy**
@@ -43,6 +45,8 @@ GitLaw supports the complete negotiation lifecycle: draft, share, redline, count
    - "Draft a reply email that accepts the liability cap and counters the indemnity clause."
 
    The Agent can suggest counter-redlines, which appear as additional track changes for you to review before accepting. See [Accept or reject tracked changes](/knowledge-base/accept-or-reject-tracked-changes) for the mechanics of individual and bulk accept/reject.
+
+   ![A tracked change with its card in the margin](https://git.law/kb-images/negotiate-and-redline-a-contract/tc-change-card.png "ring: 8.3 17 10 7; ring: 92.5 22 6 10.5")
 
    ***
 

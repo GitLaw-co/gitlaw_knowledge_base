@@ -12,8 +12,14 @@ You can chat with GitLaw Agent to review a draft document using plain-language i
 1.  **Upload a contract or paste the clause:** To review a document, you may need to upload a file or paste the text into the chat.
     a. Accepted file formats: DOCX, PDF, MD, HTML
     b. File size: maximum 5 MB per file, up to 5 files per message
+
+    ![The attach menu in the chat box](https://git.law/kb-images/review-a-document-using-agent/chat-attach.png "ring: 3.5 85 4.5 9; ring: 2.5 3 57 80")
+
     ***
-2.  **Ask for a summary:** You can choose the **Review a document** option or request a plain language summary or explanation of specific clauses (“Summarize this confidentiality section”).
+2.  **Ask for a summary:** With the document open, pick a quick action such as **Explain or summarize it** or **Spot the risks**, or request a plain language summary or explanation of specific clauses (“Summarize this confidentiality section”).
+
+    ![Quick actions next to an open document: Redline it, Explain or summarize it, Spot the risks and Send for eSign](https://git.law/kb-images/review-a-document-using-agent/quick-actions.png "ring: 2 33.5 96 17; ring: 2 52.5 96 17.5")
+
     ***
 3.  **Identify issues:** Ask the Agent to flag missing sections, contradictory terms or clauses that might be problematic. For example, “Review this contract and highlight any missing termination provisions.”
     ***

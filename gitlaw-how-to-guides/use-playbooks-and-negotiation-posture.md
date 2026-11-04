@@ -45,13 +45,13 @@ You can change tack at any point in the conversation. Adjusting your instruction
 
 ### How playbooks and posture work together during a negotiation
 
-1. **Drafting (your document)** - the Agent checks your draft against your playbook before you send it, flagging anything that falls short of your standard positions.
+- **Drafting (your document)** - the Agent checks your draft against your playbook before you send it, flagging anything that falls short of your standard positions.
 
-2. **Receiving a counterparty draft** - the Agent analyses the incoming document, identifies deviations from your playbook, and proposes redlines. The aggressiveness of those redlines is shaped by your chosen posture.
+- **Receiving a counterparty draft** - the Agent analyses the incoming document, identifies deviations from your playbook, and proposes redlines. The aggressiveness of those redlines is shaped by your chosen posture.
 
-3. **Responding to counterparty edits** - when the counterparty returns a marked-up version, the Agent summarises what changed, assesses risk, and suggests responses. Again, the posture controls whether the Agent recommends accepting a compromise or holding the line.
+- **Responding to counterparty edits** - when the counterparty returns a marked-up version, the Agent summarises what changed, assesses risk, and suggests responses. Again, the posture controls whether the Agent recommends accepting a compromise or holding the line.
 
-4. **Final checks** - once both sides converge, the Agent can assist with cross-references, signature blocks, and exhibit attachments before the document goes to execution.
+- **Final checks** - once both sides converge, the Agent can assist with cross-references, signature blocks, and exhibit attachments before the document goes to execution.
 
 For step-by-step guidance on running a full negotiation cycle, see [Negotiate and redline a contract](/knowledge-base/negotiate-and-redline-a-contract). For general document review without a negotiation workflow, see [Review a document using Agent](/knowledge-base/review-a-document-using-agent).
 

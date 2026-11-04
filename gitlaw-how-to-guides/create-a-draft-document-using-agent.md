@@ -38,14 +38,14 @@ You can chat with GitLaw Agent to create a draft document using plain-language i
 
 ### **Best practices for working with GitLaw Agent**
 
-1.  **Be specific:** Provide clear instructions and important details to get the best results. Vague requests may require multiple refinements.
+- **Be specific:** Provide clear instructions and important details to get the best results. Vague requests may require multiple refinements.
 
-2.  **Verify outputs:** The Agent is based on trusted templates, but you should always review the draft for legal accuracy and compliance with local laws. Involve a human lawyer if necessary.
+- **Verify outputs:** The Agent is based on trusted templates, but you should always review the draft for legal accuracy and compliance with local laws. Involve a human lawyer if necessary.
 
-3.  **Iterate:** Use the chat to refine the document. Ask follow‑up questions or request alternative language until the document meets your needs.
+- **Iterate:** Use the chat to refine the document. Ask follow‑up questions or request alternative language until the document meets your needs.
 
-4.  **Maintain contractual confidentiality:** GitLaw stores data securely, but you are responsible for complying with your contractual obligations.
+- **Maintain contractual confidentiality:** GitLaw stores data securely, but you are responsible for complying with your contractual obligations.
     ***
-5.  **Leverage advanced formatting and version control:** When working on the document, take advantage of GitLaw’s advanced edit and versioning features to format, track changes, and collaborate with others.
+- **Leverage advanced formatting and version control:** When working on the document, take advantage of GitLaw’s advanced edit and versioning features to format, track changes, and collaborate with others.
 
 See how to review with GitLaw Agent [here](/knowledge-base/review-a-document-using-agent).

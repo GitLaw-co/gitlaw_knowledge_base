@@ -37,11 +37,11 @@ You can attach an existing Word or PDF file to a GitLaw chat session. Before mak
 
 ### **Best practices**
 
-1. **Check the file opened in the editor:** After the Agent acts, confirm it has opened the right file - the original or the new copy - before reviewing changes.
+- **Check the file opened in the editor:** After the Agent acts, confirm it has opened the right file - the original or the new copy - before reviewing changes.
 
-2. **Use version history:** For edited files, open **Version history** from the **…** menu next to the document title to compare against the original if needed.
+- **Use version history:** For edited files, open **Version history** from the **…** menu next to the document title to compare against the original if needed.
 
-3. **Keep templates clean:** If you regularly reuse a contract template, always attach it with template-style phrasing so the original is never consumed.
+- **Keep templates clean:** If you regularly reuse a contract template, always attach it with template-style phrasing so the original is never consumed.
 
 ---
 

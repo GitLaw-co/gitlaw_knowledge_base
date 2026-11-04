@@ -15,8 +15,14 @@ An API key is a secret credential that identifies your account when you call the
 
 ## Create a key
 
-1. Open your GitLaw account settings and go to the API keys section.
-2. Choose to create a new key.
+1. Open the account menu at the bottom left and click **Settings** under your personal workspace or organisation. API keys belong to that workspace.
+
+   ![The account menu with the Settings button for the current workspace and New organization](https://git.law/kb-images/create-copy-revoke-api-keys/account-menu.png "narrow; ring: 9.5 24 39 8")
+
+2. Go to the **API keys** tab and click **Create new**.
+
+   ![The API keys tab with the Create new button](https://git.law/kb-images/create-copy-revoke-api-keys/api-keys.png "ring: 13.5 0.8 6.6 7.5; ring: 67 89.5 12.6 7.3")
+
 3. GitLaw generates the key and displays it.
 
 ## Copy the key (shown only once)
@@ -27,7 +33,7 @@ If you navigate away without copying it, you won't be able to see the full key a
 
 ## Delete a key
 
-If a key is no longer needed, has been exposed, or you want to rotate credentials, delete it from the same API keys section. Deletion is permanent and cannot be undone. Once deleted, the key stops working immediately and any system still using it receives a `401 Unauthorized` response. To keep an integration running, create a new key and update your integration before deleting the old one.
+If a key is no longer needed, has been exposed, or you want to rotate credentials, delete it from the same **API keys** tab. Deletion is permanent and cannot be undone. Once deleted, the key stops working immediately and any system still using it receives a `401 Unauthorized` response. To keep an integration running, create a new key and update your integration before deleting the old one.
 
 **Limits:** up to 30 keys per account; key names up to 50 characters; each key can be set to expire after 7, 30 or 90 days, or never.
 

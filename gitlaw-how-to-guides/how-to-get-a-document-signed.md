@@ -17,13 +17,13 @@ GitLaw includes free built-in e-signatures, so you can send a finalised document
 
 3. **Add recipients:** click **Add recipient** and enter each person's name, email and role (for example **Needs to sign**). If the document contains signature blocks placed in the GitLaw editor, GitLaw detects the parties for you. Click **Add fields** when everyone is listed.
 
-   ![Step 1, Add recipients, with one recipient and the Add fields button](https://git.law/kb-images/how-to-get-a-document-signed/sign-recipients.png "narrow; ring: 5.5 28 88 15")
+   ![The Add recipients step, with one recipient and the Add fields button](https://git.law/kb-images/how-to-get-a-document-signed/sign-recipients.png "narrow; ring: 5.5 28 88 15")
 
 4. **Place signature fields:** click **Auto-place fields** to let GitLaw place them, or open **Place fields manually**. You can move any field before sending.
 
 5. **Send:** click **Send**. Each signer receives an email from `sign@git.law` containing the document name, their role, and a button to sign in their browser. No GitLaw account is required to sign.
 
-   ![Step 2, Add signature fields, with Auto-place fields and the Send button](https://git.law/kb-images/how-to-get-a-document-signed/sign-fields.png "narrow; ring: 5.5 46.5 88 15; ring: 51 83 43.5 11.5")
+   ![The Add signature fields step, with Auto-place fields and the Send button](https://git.law/kb-images/how-to-get-a-document-signed/sign-fields.png "narrow; ring: 5.5 46.5 88 15; ring: 51 83 43.5 11.5")
 
 6. **Track status:** The document moves through three states - **Draft → Awaiting Signatures → Fully Signed**. You can see who has signed and who has not from the document view, and send a reminder to anyone outstanding using **Send reminder**.
 

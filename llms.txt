@@ -43,7 +43,7 @@ GitLaw is not a law firm and does not provide legal advice. It is software built
 
 - Creates any contract from a description of the deal, using lawyer-reviewed templates and playbooks rather than generating text from scratch.
 - Edits are made through chat. The agent uses the same tools a lawyer would: tracked changes, comments, and full version history with the ability to revert.
-- The user chooses whether the agent suggests changes for approval or makes them directly.
+- Agent edits appear as tracked changes for the user to accept or reject (the default), or are applied directly if the user turns Track changes off in chat.
 - Reads and reasons across multiple uploaded documents, selecting the relevant information.
 
 ### 5. Free eSign

@@ -17,7 +17,7 @@ When Track Changes is on, every edit you make is recorded as a tracked change ra
 
 The AI Agent has its own **Track changes** switch, next to the message box in chat. It is on by default, so Agent edits appear as tracked changes for you to accept or reject, attributed to you - your counterparty sees your name, not the AI's. Turn it off and the Agent's edits are applied directly. The editor toolbar control changes only how your own edits land.
 
-On a shared document, your counterparty sees a tracked change as soon as it is made. Use **Make a private copy** in the share panel first if you want to work on edits before they see them.
+On a shared document, your counterparty sees a tracked change as soon as it is made. Choose **Duplicate document** from the file name menu and work on the copy if you want to work on edits before they see them.
 
 GitLaw no longer has a separate Suggest mode for the Agent: you approve each Agent edit once, inline, as a tracked change. If you had Suggest selected, your Track changes switch is now on.
 

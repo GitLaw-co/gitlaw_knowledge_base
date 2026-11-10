@@ -12,8 +12,15 @@ Setting the correct **jurisdiction** ensures the Agent drafts and reviews your l
 This setting applies to **all your chats and documents**.
 To set it:
 
-1.  Go to **Settings → Profile** and open **Jurisdiction**.
-2.  Choose your jurisdiction from the searchable list (e.g., _England & Wales_, _California_, _Singapore_).
+1.  Open the account menu at the bottom left and click **Settings** under your personal workspace or organisation.
+
+    ![The account menu with the Settings button for the current workspace and New organization](https://git.law/kb-images/set-your-jurisdiction/account-menu.png "narrow; ring: 9.5 24 39 8")
+
+2.  On the **General** tab, open **Jurisdiction**.
+
+    ![The Jurisdiction setting on the General tab](https://git.law/kb-images/set-your-jurisdiction/org-jurisdiction.png "ring: 0.5 26 99 24")
+
+3.  Choose your jurisdiction from the searchable list (e.g., _England & Wales_, _California_, _Singapore_).
 
 Once saved, this jurisdiction becomes your default for every new chat or drafting session.
 
@@ -21,8 +28,10 @@ Once saved, this jurisdiction becomes your default for every new chat or draftin
 
 Use this when working on documents from **different countries or regions**.
 
-- You can change the jurisdiction for a **specific chat** without affecting your profile setting.
+- You can change the jurisdiction for a **specific chat**, using the jurisdiction chip in the message box (it shows a flag and the current jurisdiction, for example **United States**), without affecting your profile setting.
 - This is helpful when reviewing templates or contracts that follow different legal systems.
+
+![The jurisdiction chip in the message box with the searchable jurisdiction list](https://git.law/kb-images/set-your-jurisdiction/chat-jurisdiction.png "ring: 9.1 14.5 19.1 5; ring: 8.5 20.9 49.8 78")
 
 👉 Example: If your profile jurisdiction is set to _England & Wales_ but you’re reviewing a _U.S._ employment contract, simply adjust the jurisdiction in that chat.
 
@@ -33,14 +42,6 @@ You can also specify the jurisdiction directly in your message to the Agent. For
 “Create a mutual NDA for two startups with governing law as **England & Wales**.”
 
 The Agent will automatically change context of the draft based on that jurisdiction, even if your profile is set differently.
-
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/690affe6e47ce369c6fc576b_Adobe%20Express%20-%20GitLaw%20-%20Create%20and%20redline%20contracts%20by%20chatting%20with%20AI%20-%205%20November%202025%20(2).gif>)
-
-Profile jurisdiction applies to all your chats
-
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/690b00a0fe7f96b603826660_Adobe%20Express%20-%20New%20AI%20chat%20-%20GitLaw%20-%205%20November%202025%20(1).gif>)
-
-Open the jurisdiction chip above the message box to use a different jurisdiction in this chat
 
 💡 GitLaw may use your ISP country location (if provided) to automatically set your profile jurisdiction, otherwise it will be set to **United States of America** by default
 

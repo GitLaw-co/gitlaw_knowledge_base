@@ -9,7 +9,7 @@ If your contracts live in a folder of Word documents or PDFs, you can bring them
 
 #### Accepted formats
 
-GitLaw accepts **DOCX** and **PDF** files from your device. You can also use **Add from Google Drive**, which additionally accepts native Google Docs, TXT, MD and HTML - up to 20 files per batch. DOCX files with tracked changes and comments are supported: revision marks and comments (including author and timestamp) are preserved on import.
+GitLaw accepts **DOCX** and **PDF** files from your device, up to 25MB each, or from **OneDrive** or **Dropbox**. You can also use **From Google Drive**, which additionally accepts native Google Docs, TXT, MD and HTML - up to 20 files per batch. DOCX files with tracked changes and comments are supported: revision marks and comments (including author and timestamp) are preserved on import.
 
 ---
 
@@ -17,11 +17,15 @@ GitLaw accepts **DOCX** and **PDF** files from your device. You can also use **A
 
 ##### Step 1: Open the upload panel
 
-In the main menu, click **Files**, then select **Upload files**. You can also upload during onboarding - GitLaw offers this step after you complete your profile, and you can skip it and come back at any time.
+In the main menu, click **Files**, then click **Upload** at the top right. You can also upload during onboarding - GitLaw offers this step after you complete your profile, and you can skip it and come back at any time.
+
+![The Files page with the Upload button at the top right](https://git.law/kb-images/import-a-word-or-pdf-contract/import-files.png "ring: 90.8 3.5 7.2 18")
 
 ##### Step 2: Select your files
 
-Choose one or more DOCX or PDF files from your device, or use **Add from Google Drive** (up to 20 files per batch). Processing is limited by your monthly allowance. If a batch would exceed your remaining allowance, GitLaw processes files in order and holds the rest with a clear message.
+Drag and drop files onto the panel, click **Choose files** to pick DOCX or PDF files from your device (up to 25MB each), or use **From Google Drive** (up to 20 files per batch), **From OneDrive** or **From Dropbox**. Processing is limited by your monthly allowance. If a batch would exceed your remaining allowance, GitLaw processes files in order and holds the rest with a clear message.
+
+![The Add files panel with Choose files, From Google Drive, From OneDrive and From Dropbox](https://git.law/kb-images/import-a-word-or-pdf-contract/import-upload.png "ring: 10.5 61.5 79 23")
 
 ##### Step 3: Watch extraction run
 
@@ -30,10 +34,10 @@ After upload completes, GitLaw routes you to **Files → Overview**, which fills
 | Field                               | Notes                                                                                                                                        |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Parties**                         | Primary parties become Contacts; other named parties (signatories, witnesses, advisors) stay on the file detail and can be promoted manually |
-| **Status**                          | Inferred as Draft, In review, Pending signature, Signed or Expired                                                                           |
+| **Status**                          | Inferred as Draft, Needs review, Pending signature, Signed or Expired                                                                        |
 | **Category**                        | Matched against the GitLaw category list (NDA, SaaS Agreement, Employment Contract, etc.)                                                    |
 | **Execution date / Effective date** | Captured as distinct fields when both are present                                                                                            |
-| **Expiry / renewal date**           | Auto-creates a Reminder with a 30-day lead time                                                                                              |
+| **Expiry / renewal date**           | Captured on the file - once the contract is signed it shows as **Expiring soon** for the 30 days before that date                            |
 | **Governing law and courts**        | Captured when stated                                                                                                                         |
 
 Extraction runs on the original file - no conversion is needed for GitLaw to read the content.
@@ -49,7 +53,7 @@ Click any file to open its detail view. You will see the extracted fields as chi
 |                                                      | Preserved on import                                                                           |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Track changes (inserts, deletes, replacements)       | Yes - imported as revision marks; counterparty edits are attributed to a placeholder identity |
-| Comments (author, timestamp, thread, anchored range) | Yes                                                                                           |
+| Comments (author, timestamp, anchored range)         | Yes - except reply threads: a thread arrives as one comment and the replies are dropped |
 | Headings, tables, lists, numbering                   | Yes where feasible; lossy cases surface a warning on the file detail                          |
 | Original file format                                 | Yes - your DOCX or PDF is stored as version 1 and remains accessible via version history      |
 
@@ -59,8 +63,8 @@ The original file is **not** converted until you open it to edit. At that point 
 
 ### After import
 
-- **Contacts** - each primary party becomes a Contact on the **Files → Contacts** tab, deduplicated by name. You can click a Contact to see every file, reminder, and chat related to them.
-- **Reminders** - renewal and expiry dates create Reminders with a default 30-day lead time. Look for the "inferred" tag on auto-created Reminders; confirm or edit them to remove it.
+- **Contacts** - each primary party becomes a Contact in **Memory → Contacts**, deduplicated by name. You can click a Contact to see every file, reminder, and chat related to them.
+- **Reminders** - GitLaw raises reminders on the deadline dates it finds in the contract (renewal and expiry, notice and payment deadlines, reporting obligations, reviews, termination windows). There is no fixed lead time, and it's a best-effort read - check the result against the contract. Look for the "inferred" tag on auto-created Reminders; confirm or edit them to remove it.
 - **Chat** - you can attach any imported file to a chat session and ask the agent to review, redraft, or compare it. See [Attach a file to chat](/knowledge-base/attach-a-file-to-chat).
 - **Export** - once a file is in GitLaw's editor you can export it as DOCX or PDF. Comments are included in DOCX exports only. See [Export your document](/knowledge-base/export-your-document).
 

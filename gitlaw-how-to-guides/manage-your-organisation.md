@@ -9,17 +9,20 @@ A GitLaw organisation is a shared workspace for your team. Documents created ins
 
 ## Create an organisation
 
-1. Open your account menu and select **New organisation**.
+1. Open the account menu at the bottom left and select **New organization**.
+
+   ![The account menu with New organization](https://git.law/kb-images/manage-your-organisation/account-menu.png "narrow; ring: 4 38 92 8.5")
+
 2. Enter a name and confirm.
 3. You are automatically assigned the **Org Owner** role.
 
 ## Roles at a glance
 
-| Role       | Sees all org files | Invites members | Removes members  | Changes roles          | Edits org settings |
-| ---------- | ------------------ | --------------- | ---------------- | ---------------------- | ------------------ |
-| **Owner**  | No (unless shared) | Yes             | Yes              | Owner / Admin / Member | Yes                |
-| **Admin**  | No (unless shared) | Yes             | Yes (not Owners) | Admin / Member only    | No                 |
-| **Member** | No (unless shared) | No              | No               | No                     | No                 |
+| Role       | Sees all org files | Invites members | Removes members  | Changes roles          | Edits org settings | Manages billing |
+| ---------- | ------------------ | --------------- | ---------------- | ---------------------- | ------------------ | --------------- |
+| **Owner**  | Yes                | Yes             | Yes              | Owner / Admin / Member | Yes                | Yes             |
+| **Admin**  | No (unless shared) | Yes             | Yes (not Owners) | Admin / Member only    | No                 | Yes             |
+| **Member** | No (unless shared) | No              | No               | No                     | No                 | No              |
 
 There must always be at least one Owner. An Owner can only leave or remove their own Owner role if another Owner already exists.
 
@@ -27,15 +30,22 @@ For full details on document-level access (Viewer, Editor, Owner), see [File sha
 
 ## Invite members
 
-1. Go to your organisation's **Members** settings.
-2. Enter the person's email address and select a role.
-3. They receive an invitation to join. Once accepted, they can create and collaborate on organisation documents.
+1. Open the account menu, click **Settings** under your organisation, and go to the **People** tab.
+2. Click **+** at the top right.
+
+   ![The People tab with the + button](https://git.law/kb-images/manage-your-organisation/org-people.png "ring: 5 2 4.2 20; ring: 93.5 26 3 21")
+
+3. Enter one or more email addresses separated by commas, add an optional message, and click **Send invite**.
+
+   ![The Add members form](https://git.law/kb-images/manage-your-organisation/add-members.png "ring: 3 19 94 17; ring: 50.5 80.5 46.5 13")
+
+4. They receive an invitation to join. Once accepted, they can create and collaborate on organisation documents.
 
 You can invite as many members as you like. You pay only for Paid Members; Free Members cost you nothing. See [How does billing work?](/knowledge-base/how-does-billing-work) for plan details.
 
 ## Change a member's role
 
-1. Open **Members** settings.
+1. Open the **People** tab in your organisation's settings.
 2. Find the member and select a new role from the dropdown.
 
 Owners can change any role. Admins can change Member and Admin roles but cannot grant or revoke the Owner role.
@@ -46,7 +56,7 @@ Each member has their own monthly AI allowance. Top-ups you buy go into a shared
 
 ## Remove a member (off-boarding)
 
-1. Open **Members** settings.
+1. Open the **People** tab in your organisation's settings.
 2. Select the member and choose **Remove from organisation**.
 
 When a member leaves or is removed:

@@ -13,17 +13,13 @@ Use **smart fields** to mark fillable information such as names, addresses, date
 
 Smart fields are also recognized by the Agent, allowing it to update or populate values automatically when drafting or reviewing your contract.
 
-👉 You can access all smart fields from the **…** menu in the top right, under **Document fields**.
+👉 You can access all smart fields from the **…** menu next to the document title, under **Document fields**.
 
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/69144d146b5ca2d091b245e3_Adobe%20Express%20-%20AI%20Chat%20-%20GitLaw%20-%2012%20November%202025%20(2)%20(1).gif>)
+![The Document fields panel listing every smart field, with New field](https://git.law/kb-images/advanced-formatting-options-in-gitlaw-editor/document-fields.png "narrow; ring: 4.5 89 91 10")
 
-Access full list of smart fields by clicking on top right menu and going to Fields
+![The Mark as smart field button and its shortcut](https://git.law/kb-images/advanced-formatting-options-in-gitlaw-editor/smart-field-button.png "ring: 56 21 8.5 24")
 
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/6914592f6ceea5f04fa52497_Adobe%20Express%20-%20AI%20Chat%20-%20GitLaw%20-%2012%20November%202025%20(4).gif>)
-
-Select text and use second button from the right (ctrl/cmd + shift + X) to convert existing content into smart field
-
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/69145bd7c4db1bc5037261d3_Adobe%20Express%20-%20AI%20Chat%20-%20GitLaw%20-%2012%20November%202025%20(5).gif>)
+Select text and use the **Mark as smart field** button, second from the right in the toolbar (ctrl/cmd + shift + X), to convert existing content into smart field
 
 Place cursor and use the smart field button to add from existing list
 
@@ -32,7 +28,7 @@ Place cursor and use the smart field button to add from existing list
 **Help text** provides guidance or notes for the drafter or reviewer. It’s visible during editing but **not included in exported versions**.
 Use this to explain context, drafting intent, or internal comments without affecting the final document.
 
-![__wf_reserved_inherit](<https://cdn.prod.website-files.com/68612182f9d418e4929f7519/69145f84e308b95c06617ef2_Adobe%20Express%20-%20AI%20Chat%20-%20GitLaw%20-%2012%20November%202025%20(8).gif>)
+![Mark as help text in the toolbar's … menu](https://git.law/kb-images/advanced-formatting-options-in-gitlaw-editor/toolbar-more.png "narrow; ring: 2 43 95 7")
 
 Place cursor on a paragraph and use the right-most option in the toolbar
 

@@ -31,11 +31,11 @@ Facts the Agent learns are written to Memory and are always visible and reversib
 
 ### Viewing and editing your Context Files
 
-Your context files are collected under **Memory** in the sidebar, in the **Context** section. From there you can:
+Your context files are collected under **Memory** in the sidebar, on the **Memories** tab. From there you can:
 
 ![The Memories tab with memory cards and the Add memory button](https://git.law/kb-images/use-memory-and-context-files/memory-list.png "ring: 89.2 37.5 10.3 7")
 
-- Filter by scope (Profile, Memory, Playbook, Contact)
+- See each entry's scope on its chip (Profile, Notes, Playbook, Contact)
 - Click any entry to read the full note
 - Click **Edit** to change the text, or **Download** to keep a copy
 - Click **Add memory** to write a new entry yourself
@@ -52,4 +52,4 @@ The Agent cites memory at the point it uses it. If it applies your standard liab
 
 - **Check your Profile is complete.** A full profile - especially [jurisdiction](/knowledge-base/set-your-jurisdiction) and industry - means the Agent's first draft is already closer to what you need. See [Set up your GitLaw account](/knowledge-base/set-up-your-gitlaw-account).
 - **Upload your existing contracts.** The more contracts GitLaw has seen, the more accurate your playbooks and counterparty notes become.
-- **Add contact notes for frequent counterparties.** A few lines on a counterparty's red lines saves you re-explaining them every time. Find contacts under **Files → Contacts** - see [Manage your contacts](/knowledge-base/manage-your-contacts).
+- **Add contact notes for frequent counterparties.** A few lines on a counterparty's red lines saves you re-explaining them every time. Find contacts under **Memory → Contacts** - see [Manage your contacts](/knowledge-base/manage-your-contacts).

@@ -34,7 +34,7 @@ GitLaw is not a law firm and does not provide legal advice. It is software built
 
 ### 3. Acts like an in-house legal team (Workspace and Dashboard)
 
-- Stores contracts securely and sends reminders before renewal dates.
+- Stores contracts securely, sends reminders on renewal and other key contract dates, and flags contracts expiring within 30 days.
 - Answers questions about a contract in simple terms.
 - Identifies missing contracts across a business and creates them.
 - Contract dashboard shows every contract with risks, renewals, and gaps in one view.
@@ -60,13 +60,13 @@ GitLaw is not a law firm and does not provide legal advice. It is software built
 
 ### 7. Integrations
 
-- Connects with 3,000+ third-party tools, including email and CRM systems.
+- Connects with 7,000+ third-party apps through Zapier, including email and CRM systems.
 
 ## How GitLaw works (typical flow)
 
 1. Create or upload: tell GitLaw what contract you need, or upload a contract you have been sent.
 2. Edit and understand: customize any clause through chat, ask questions, and get terms explained.
-3. Sign and store: send for free eSign. GitLaw stores the document and reminds you before renewal.
+3. Sign and store: send for free eSign. GitLaw stores the document and reminds you of renewal and other key dates.
 
 ## How GitLaw differs from generic AI tools
 
@@ -91,7 +91,7 @@ Top-up AI credits are available in $25 or $50 increments and never expire. No cr
 
 - SOC 2 Type 2 compliant, enterprise-grade security.
 - Data encrypted in transit and at rest (AES-256, TLS 1.2+).
-- Role-based access controls. Only the people a user chooses can see their documents.
+- Role-based access controls. Documents are private until shared; only organisation Owners can see every file the organisation owns.
 - GDPR and CCPA aligned.
 - AI outputs are explainable and fully auditable.
 - Details: https://git.law/security

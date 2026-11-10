@@ -34,10 +34,10 @@ After upload completes, GitLaw routes you to **Files → Overview**, which fills
 | Field                               | Notes                                                                                                                                        |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Parties**                         | Primary parties become Contacts; other named parties (signatories, witnesses, advisors) stay on the file detail and can be promoted manually |
-| **Status**                          | Inferred as Draft, In review, Pending signature, Signed or Expired                                                                           |
+| **Status**                          | Inferred as Draft, Needs review, Pending signature, Signed or Expired                                                                        |
 | **Category**                        | Matched against the GitLaw category list (NDA, SaaS Agreement, Employment Contract, etc.)                                                    |
 | **Execution date / Effective date** | Captured as distinct fields when both are present                                                                                            |
-| **Expiry / renewal date**           | Auto-creates a Reminder with a 30-day lead time                                                                                              |
+| **Expiry / renewal date**           | Captured on the file - once the contract is signed it shows as **Expiring soon** for the 30 days before that date                            |
 | **Governing law and courts**        | Captured when stated                                                                                                                         |
 
 Extraction runs on the original file - no conversion is needed for GitLaw to read the content.
@@ -53,7 +53,7 @@ Click any file to open its detail view. You will see the extracted fields as chi
 |                                                      | Preserved on import                                                                           |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Track changes (inserts, deletes, replacements)       | Yes - imported as revision marks; counterparty edits are attributed to a placeholder identity |
-| Comments (author, timestamp, thread, anchored range) | Yes                                                                                           |
+| Comments (author, timestamp, anchored range)         | Yes - except reply threads: a thread arrives as one comment and the replies are dropped |
 | Headings, tables, lists, numbering                   | Yes where feasible; lossy cases surface a warning on the file detail                          |
 | Original file format                                 | Yes - your DOCX or PDF is stored as version 1 and remains accessible via version history      |
 
@@ -63,8 +63,8 @@ The original file is **not** converted until you open it to edit. At that point 
 
 ### After import
 
-- **Contacts** - each primary party becomes a Contact on the **Files → Contacts** tab, deduplicated by name. You can click a Contact to see every file, reminder, and chat related to them.
-- **Reminders** - renewal and expiry dates create Reminders with a default 30-day lead time. Look for the "inferred" tag on auto-created Reminders; confirm or edit them to remove it.
+- **Contacts** - each primary party becomes a Contact in **Memory → Contacts**, deduplicated by name. You can click a Contact to see every file, reminder, and chat related to them.
+- **Reminders** - GitLaw raises reminders on the deadline dates it finds in the contract (renewal and expiry, notice and payment deadlines, reporting obligations, reviews, termination windows). There is no fixed lead time, and it's a best-effort read - check the result against the contract. Look for the "inferred" tag on auto-created Reminders; confirm or edit them to remove it.
 - **Chat** - you can attach any imported file to a chat session and ask the agent to review, redraft, or compare it. See [Attach a file to chat](/knowledge-base/attach-a-file-to-chat).
 - **Export** - once a file is in GitLaw's editor you can export it as DOCX or PDF. Comments are included in DOCX exports only. See [Export your document](/knowledge-base/export-your-document).
 

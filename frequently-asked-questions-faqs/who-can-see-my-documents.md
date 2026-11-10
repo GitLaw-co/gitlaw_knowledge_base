@@ -2,12 +2,12 @@
 title: Who can see my documents?
 slug: who-can-see-my-documents
 category: frequently-asked-questions-faqs
-excerpt: 'Every document you create is private by default, whether you create it in your own space or inside an organisation. You always control and can see who has access.'
+excerpt: 'Every document you create is private by default, whether you create it in your own space or inside an organisation - the one exception is your organisation Owner. You always control and can see who has access.'
 ---
 
 **Private by default - and you can always see who has access.**
 
-Every document you create is **private by default**, whether you create it in your own space or inside an organisation. Nobody else can see it - including other members of your organisation - until you share it or change its visibility.
+Every document you create is **private by default**, whether you create it in your own space or inside an organisation. Other members of your organisation can't see it until you share it or change its visibility - the one exception is an organisation **Owner**, who can reach every file in the organisation.
 
 ### How access is granted
 
@@ -18,7 +18,7 @@ You control access through two mechanisms:
 
 ### Files inside an organisation
 
-A document owned by an organisation is still private to you until you share it. Share it with the organisation when you want colleagues to find and collaborate on it.
+A document owned by an organisation is still private to your colleagues until you share it. Share it with the organisation when you want them to find and collaborate on it. The exception is an organisation **Owner**: the file belongs to the organisation, not to you, so the Owner can see every file in it - including private ones. For especially sensitive documents, use a separate organisation.
 
 ### External parties
 

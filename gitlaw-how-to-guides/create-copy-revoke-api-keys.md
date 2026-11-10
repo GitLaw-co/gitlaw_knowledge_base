@@ -35,7 +35,7 @@ If you navigate away without copying it, you won't be able to see the full key a
 
 If a key is no longer needed, has been exposed, or you want to rotate credentials, delete it from the same **API keys** tab. Deletion is permanent and cannot be undone. Once deleted, the key stops working immediately and any system still using it receives a `401 Unauthorized` response. To keep an integration running, create a new key and update your integration before deleting the old one.
 
-**Limits:** up to 30 keys per account; key names up to 50 characters; each key can be set to expire after 7, 30 or 90 days, or never.
+**Limits:** up to 30 keys per account; key names up to 50 characters; each key can be set to expire after 30 or 90 days, or never.
 
 ## Security best practice
 

@@ -30,7 +30,7 @@ Your lawyer gets an email with your message and a link to open the document. The
 1. Click **Find me a lawyer** in the chat.
 2. Check the access and review the drafted message - add any context that helps us find the right person, like where you and the other side are based.
 3. Tick the box confirming that any engagement is between you and the lawyer we match.
-4. Click **Send request**.
+4. Click **Get a free quote**.
 
 ![The Find me a lawyer window, addressed to the GitLaw concierge, with a drafted message and the consent checkbox](https://git.law/kb-images/lawyer-loop-in/find-me-a-lawyer.png)
 

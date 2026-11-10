@@ -12,7 +12,7 @@ We make money through **paid plans** that give you more AI credits and advanced 
 - **Pro** ($25/month per seat, or $20/month per seat billed annually) - more monthly AI credits per seat, advanced team settings, audit log and version history, and priority support
 - **Enterprise** (custom pricing) - a custom AI credit pool, SSO/SAML, extended audit retention, and dedicated support with an SLA
 
-We also sell **credit top-ups** - one-off extra credits that your whole organisation shares, for months when you need more than your allowance.
+We also sell **credit top-ups** - one-off extra credits that your organisation's Paid Members share, for months when you need more than your allowance.
 
 Every account - free or paid - gets the same core features: unlimited documents, AI-powered drafting, and AI-powered contract review. Paid plans simply give you more AI credits to work with.
 

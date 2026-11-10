@@ -43,21 +43,29 @@ A Person contact can be linked to a Company contact as a point of contact. Open 
 
 ---
 
+### Who sees a contact in an organisation
+
+In an organisation, each contact has a **Who sees it** setting: **Everyone in the organization** (the default) or **Only me**. A contact only you see carries an **Only you** badge. Whoever added a contact can change this setting later. A person everyone sees cannot belong to a company only you see, so share the company first.
+
+Whoever added a shared contact can edit or delete it, and so can the organisation's owners and admins. Only you can edit a contact you keep as **Only me**.
+
+---
+
 ### Search and manage contacts
 
-The contacts list is paginated and supports free-text search across name fields. Use the search bar at the top of the list to find a contact by name. You can edit or delete any contact from its detail view.
+The contacts list is paginated and supports free-text search across name fields. Use the search bar at the top of the list to find a contact by name. You can edit or delete a contact from its detail view.
 
 ---
 
 ### Contacts created automatically from uploaded documents
 
-When you [import a Word or PDF contract](/knowledge-base/import-a-word-or-pdf-contract), GitLaw extracts the named parties from the document. Each unique party is automatically promoted to a Contact and labelled with the document it came from - for example **Found in Acme MSA**. Contacts you add yourself are labelled **Added by you**. Review and edit these auto-created contacts on the **Memory → Contacts** tab - the originating document stays linked regardless of any edits you make to the contact.
+When you [import a Word or PDF contract](/knowledge-base/import-a-word-or-pdf-contract), GitLaw extracts the named parties from the document. Each unique party is automatically promoted to a Contact and labelled with the document it came from - for example **Found in Acme MSA**. Contacts you add yourself are labelled **Added by you**. In an organisation, parties found in a file only you can open become **Only me** contacts. Review and edit these auto-created contacts on the **Memory → Contacts** tab - the originating document stays linked regardless of any edits you make to the contact.
 
 ---
 
 ### GitLaw Agent and contacts
 
-The Agent can search for contacts and create or update them during a conversation - for example, if you mention a counterparty by name that doesn't have a record yet, it will offer to create one before proceeding. Any Agent-driven change requires your confirmation before it is saved.
+The Agent can search for contacts and create or update them during a conversation - for example, if you mention a counterparty by name that doesn't have a record yet, it saves one - or reuses the existing record when the name or an email already matches. The Agent saves without asking first, so review its changes on the **Memory → Contacts** tab.
 
 ---
 

@@ -47,7 +47,7 @@ This meets industry standards (equivalent to DocuSign / HelloSign audit certific
 
 - **Collaboration history is excluded.** The version sent for signature contains only the finalised document - chat, comments, and drafting history are not shared with signers.
 - **Free, always.** E-signature is included in GitLaw at no extra cost and is not metered.
-- **Signing from the Agent.** If you prefer, simply tell the Agent to send the document for signature. It will detect the parties and guide you through the same flow.
+- **Signing from the Agent.** If you prefer, simply tell the Agent to send the document for signature. It will guide you through the same flow.
 
 ### Related articles
 

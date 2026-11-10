@@ -29,7 +29,7 @@ Contributing allows you to:
 
 ##### Step 1: Fork the Repository
 
-1.  Visit GitLaw’s [**Repository Library**](https://git.law/explore) and search for the legal document repository you’d like to fork (e.g., "[UK Employment Documents](https://git.law/uklaw/UK_Employment_Documents_from_ACAS) ").
+1.  Visit GitLaw’s [**template library**](https://git.law/templates) and search for the legal document repository you’d like to fork.
 2.  Open the repository to review its contents and ensure it fits your needs.
 3.  Click the **Fork** button in the top-right corner to create your own copy of the repository.
 

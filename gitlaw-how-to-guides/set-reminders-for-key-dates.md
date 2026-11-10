@@ -38,7 +38,7 @@ Completed reminders are kept separately and do not appear in the urgency groups 
 
 ### AI-suggested reminders from uploaded contracts
 
-When you [import a Word or PDF contract](/knowledge-base/import-a-word-or-pdf-contract), GitLaw extracts key dates - expiry, renewal, and execution dates - and can create reminders from them automatically. Automatically created reminders are tagged **inferred** so you can distinguish them from reminders you added yourself. To confirm an inferred reminder, open it and save any edit (or use the explicit confirm action); the inferred tag is removed and the reminder is treated as fully user-owned from that point.
+When you [import a Word or PDF contract](/knowledge-base/import-a-word-or-pdf-contract), GitLaw looks for the deadline dates in the contract - renewal and expiry, notice and payment deadlines, reporting obligations, reviews and termination windows - and can create reminders from them automatically. It's a best-effort read, not a guarantee every deadline is caught: automatically created reminders are tagged **inferred**, so check them against the contract and add anything missed by hand. To confirm an inferred reminder, open it and save any edit (or use the explicit confirm action); the inferred tag is removed and the reminder is treated as fully user-owned from that point.
 
 ### Mark a reminder complete
 

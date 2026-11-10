@@ -47,7 +47,7 @@ There is no delete button in the app yet. You request deletion by email, and we 
 | Private, with no collaborators       | **Deleted** with your account                                            |
 | Shared with collaborators, or public | **Kept**: moved to GitLaw's organisation so collaborators keep access    |
 | Belongs to an organisation           | **Kept**: stays with the organisation, members keep the same permissions |
-| Your profile and settings            | **Deleted** within 90 days of closing the account                        |
+| Your profile and settings            | **Deleted**                                                              |
 
 ## Frequently asked questions
 

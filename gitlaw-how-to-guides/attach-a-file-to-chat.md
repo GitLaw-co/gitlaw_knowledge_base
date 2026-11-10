@@ -13,7 +13,7 @@ You can attach an existing Word or PDF file to a GitLaw chat session. Before mak
 
 2. **Attach your file:** Click **+** at the bottom left of the chat input and choose **Upload files** to pick a DOCX, PDF, MD or HTML file from your device, or **Add from Google Drive**, **Add from OneDrive**, **Add from Dropbox** or **Add from your Files**.
 
-   ![The attach menu with Upload files, Add from Google Drive, OneDrive, Dropbox and your Files](https://git.law/kb-images/attach-a-file-to-chat/chat-attach.png "ring: 3.5 85 4.5 9; ring: 2.5 3 57 80")
+   ![The attach menu with Upload files, Add from Google Drive, OneDrive, Dropbox and your Files](https://git.law/kb-images/attach-a-file-to-chat/chat-attach.png "ring: 3.4 84.7 4.2 7.5; ring: 2.1 1.3 57.5 81.9")
 
    The file is added to your GitLaw files once you send the message.
 

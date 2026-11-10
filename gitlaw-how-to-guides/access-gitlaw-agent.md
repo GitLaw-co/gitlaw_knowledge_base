@@ -17,9 +17,9 @@ GitLaw combines lawyer‑vetted templates with an AI agent that can draft or rev
 
 3.  In the chat interface, you will see the chat box, with **See what GitLaw can do** below it for ideas. The Agent understands your plain-language instructions and **will ask for confirmations where required**.
 
-![The chat box on the Home page](https://git.law/kb-images/access-gitlaw-agent/home-chat.png "ring: 1.2 43.5 97.5 34")
+![The chat box on the Home page](https://git.law/kb-images/access-gitlaw-agent/home-chat.png "ring: 0.8 38.3 98.5 38.9")
 
-![The jurisdiction chip in the chat box and its searchable list](https://git.law/kb-images/access-gitlaw-agent/chat-jurisdiction.png "ring: 6.3 14.5 15.6 6")
+![The jurisdiction chip in the chat box and its searchable list](https://git.law/kb-images/access-gitlaw-agent/chat-jurisdiction.png "ring: 9.1 14.5 19.1 5")
 
 💡Always remember to set your jurisdiction to get best quality first drafts and reviews. [Click here](/knowledge-base/set-your-jurisdiction) to learn how.
 

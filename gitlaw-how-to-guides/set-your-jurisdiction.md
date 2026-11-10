@@ -28,10 +28,10 @@ Once saved, this jurisdiction becomes your default for every new chat or draftin
 
 Use this when working on documents from **different countries or regions**.
 
-- You can change the jurisdiction for a **specific chat**, using the jurisdiction chip in the message box (it shows a flag and the current jurisdiction, for example **General (US)**), without affecting your profile setting.
+- You can change the jurisdiction for a **specific chat**, using the jurisdiction chip in the message box (it shows a flag and the current jurisdiction, for example **United States**), without affecting your profile setting.
 - This is helpful when reviewing templates or contracts that follow different legal systems.
 
-![The jurisdiction chip in the message box with the searchable jurisdiction list](https://git.law/kb-images/set-your-jurisdiction/chat-jurisdiction.png "ring: 6.3 14.5 15.6 6; ring: 5.8 21.8 42.6 77")
+![The jurisdiction chip in the message box with the searchable jurisdiction list](https://git.law/kb-images/set-your-jurisdiction/chat-jurisdiction.png "ring: 9.1 14.5 19.1 5; ring: 8.5 20.9 49.8 78")
 
 👉 Example: If your profile jurisdiction is set to _England & Wales_ but you’re reviewing a _U.S._ employment contract, simply adjust the jurisdiction in that chat.
 

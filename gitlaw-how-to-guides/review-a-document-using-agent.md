@@ -13,7 +13,7 @@ You can chat with GitLaw Agent to review a draft document using plain-language i
     a. Accepted file formats: DOCX, PDF, MD, HTML
     b. File size: maximum 5 MB per file, up to 5 files per message
 
-    ![The attach menu in the chat box](https://git.law/kb-images/review-a-document-using-agent/chat-attach.png "ring: 3.5 85 4.5 9; ring: 2.5 3 57 80")
+    ![The attach menu in the chat box](https://git.law/kb-images/review-a-document-using-agent/chat-attach.png "ring: 3.4 84.7 4.2 7.5; ring: 2.1 1.3 57.5 81.9")
 
     ***
 2.  **Ask for a summary:** With the document open, pick a quick action such as **Explain or summarize it** or **Spot the risks**, or request a plain language summary or explanation of specific clauses (“Summarize this confidentiality section”).

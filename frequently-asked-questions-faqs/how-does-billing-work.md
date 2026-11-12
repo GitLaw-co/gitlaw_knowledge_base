@@ -12,7 +12,7 @@ GitLaw has three tiers: **Free**, **Pro**, and **Enterprise**. An organisation c
 |                        | Free                             | Pro                                          | Enterprise              |
 | ---------------------- | -------------------------------- | -------------------------------------------- | ----------------------- |
 | Price                  | $0/month              | $25/month per seat (or $20/month per seat billed annually) | Custom — contact us     |
-| Monthly AI credits     | $5 of credits/month | $25 of credits per seat/month     | Custom credit pool      |
+| Monthly AI credits     | $5 of credits/month | $30 of credits per seat/month     | Custom credit pool      |
 | Members                | Unlimited                        | Unlimited                                    | Unlimited               |
 | Documents              | Unlimited                        | Unlimited                                    | Unlimited               |
 | Advanced team settings | —                                | Yes                                          | Yes                     |

@@ -91,7 +91,7 @@ The API processes the request and returns the result directly.
 
 ### Response
 
-`{    "chatId": "chat_123",    "answer": "I've reviewed the contract. Here are the key issues I identified:\n\n1. The liability clause in Section 4.2 is unusually broad...",    "fileId": "file_existing_789"   }   `
+`{    "chatId": "550e8400-e29b-41d4-a716-446655440000",    "answer": "I've reviewed the contract. Here are the key issues I identified:\n\n1. The liability clause in Section 4.2 is unusually broad...",    "fileId": "file_existing_789"   }   `
 
 ## Example: Upload and Analyze a New File
 

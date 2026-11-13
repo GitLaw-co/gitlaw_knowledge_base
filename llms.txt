@@ -77,15 +77,15 @@ General-purpose AI assistants such as ChatGPT are not built for legal work and c
 - It was built with a standards committee of independent practicing lawyers.
 - It remembers the user's business context, standard terms, and past contracts, and works inside a full contracting workflow (draft, redline, sign, store) rather than a plain chat window.
 
-## Pricing (as of August 2026)
+## Pricing (as of November 2026)
 
 | Plan | Price | Includes |
 |---|---|---|
 | Free | $0 per month | $5 of monthly AI credits, AI drafting and review, unlimited documents, unlimited members, free sharing with any organization, free unlimited eSign |
-| Pro | $25 per month per seat (annual billing saves $60 per year) | Everything in Free, plus $25 of AI credits per seat, advanced team settings, audit log and version history, priority support |
+| Pro | $25 per month per seat (annual billing saves $60 per year) | Everything in Free, plus $30 of AI credits per seat, advanced team settings, audit log and version history, priority support |
 | Enterprise | Custom | Everything in Pro, plus custom AI credit pool, SSO/SAML, dedicated support with SLA, extended audit retention |
 
-Top-up AI credits are available in $25 or $50 increments and never expire. No credit card or sales call is required to start. Current pricing: https://git.law/pricing
+Top-up AI credits are available in $25, $50 or $100 amounts and never expire. No credit card or sales call is required to start. Current pricing: https://git.law/pricing
 
 ## Security and trust
 

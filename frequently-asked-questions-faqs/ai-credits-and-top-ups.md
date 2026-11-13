@@ -12,7 +12,7 @@ excerpt: How your monthly AI-credit allowance works, when top-ups kick in, and w
 Every seat gets a monthly allowance:
 
 - **Free** - $5 of credits/month
-- **Pro** - $25 of credits per seat/month
+- **Pro** - $30 of credits per seat/month
 - **Enterprise** - a custom credit pool
 
 Two things to know:
@@ -28,7 +28,7 @@ When you need more, buy a **top-up**. Top-ups work differently in three ways:
 - **Used after a Paid Member's own allowance runs out** - GitLaw spends the monthly allowance first, then the shared pool. Free Members don't draw on the pool: when their own allowance runs out, they can ask an Owner or Admin for a paid seat.
 - **They roll over** - top-up credits don't expire. They stay in your pool until you use them.
 
-Top-ups come in fixed amounts - for example, $25 or $50.
+Top-ups come in fixed amounts - for example, $25, $50, or $100.
 
 ## Monthly allowance vs top-ups
 

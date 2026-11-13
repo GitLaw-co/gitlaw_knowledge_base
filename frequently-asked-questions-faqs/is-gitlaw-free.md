@@ -25,7 +25,7 @@ The main difference is how many AI credits you get each month; paid tiers also a
 | Plan       | Price                                        | Monthly AI credits                       |
 | ---------- | -------------------------------------------- | ---------------------------------------- |
 | Free       | $0                                | $5 of credits/month         |
-| Pro        | $25/month per seat (or $20/month per seat billed annually) | $25 of credits per seat/month |
+| Pro        | $25/month per seat (or $20/month per seat billed annually) | $30 of credits per seat/month |
 | Enterprise | Custom — contact us                          | Custom credit pool                       |
 
 **Pro** also adds advanced team settings, audit log and version history, and priority support. **Enterprise** adds SSO/SAML, extended audit retention, and dedicated support with an SLA. Every feature - AI drafting, AI review, e-signatures, templates - is available on all plans.

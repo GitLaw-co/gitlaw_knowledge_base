@@ -21,10 +21,18 @@ A single template can sit in a category (telling you what it is) and also appear
 
 ## How to browse and filter
 
-1. **Open the template library** to see what's available.
-2. **Browse by category** to jump straight to the type of document you need - for example employment, NDAs, or services agreements.
+1. **Open the template library:** click **Templates** in the left sidebar. The **Overview** tab shows popular categories and a search box for all templates.
+
+   ![The Templates overview with search and popular categories](https://git.law/kb-images/browse-templates-collections-categories/templates-overview.png "ring: 23.8 33.5 52 12")
+
+2. **Browse by category:** open the **Template Library** tab and pick a category from the row at the top - for example Employment, IP, or Service Agreements.
+
+   ![The Template Library tab with the category row and search](https://git.law/kb-images/browse-templates-collections-categories/templates-library.png "ring: 0 24 100 17")
+
 3. **Explore collections** to discover curated groups of related templates you might not have searched for directly.
-4. **Combine with search and jurisdiction filters** to narrow results further. The library lets you filter by jurisdiction so you only see documents relevant to where you operate.
+4. **Combine with search and jurisdiction filters** to narrow results further. Click the filter icon next to the search box and choose **Jurisdiction** so you only see documents relevant to where you operate.
+
+   ![The filter menu with Jurisdiction](https://git.law/kb-images/browse-templates-collections-categories/templates-filter.png "ring: 1.5 29 67 67")
 
 ## Why organising helps you find contracts faster
 

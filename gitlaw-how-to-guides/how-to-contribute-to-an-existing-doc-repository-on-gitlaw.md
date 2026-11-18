@@ -13,23 +13,23 @@ Contributing to an existing GitLaw repository helps improve legal templates and 
 
 A fork allows you to:
 
-1.  **Create Your Own Legal Library:** Save a copy of a repository to your GitLaw account and modify it without affecting the original version.
-2.  **Contribute to the Community:** Suggest improvements or updates to the original repository by submitting pull requests with your changes.
-3.  **Experiment Safely:** Test edits and customizations in your forked repository without affecting others.
+- **Create Your Own Legal Library:** Save a copy of a repository to your GitLaw account and modify it without affecting the original version.
+- **Contribute to the Community:** Suggest improvements or updates to the original repository by submitting pull requests with your changes.
+- **Experiment Safely:** Test edits and customizations in your forked repository without affecting others.
 
 ### Why Contribute to a Repository?
 
 Contributing allows you to:
 
-1.  **Enhance Existing Resources:** Improve the quality and accuracy of legal documents.
-2.  **Share Your Expertise:** Add your knowledge to the collective effort of the GitLaw community.
-3.  **Collaborate with Peers:** Work alongside other legal professionals and contributors.
+- **Enhance Existing Resources:** Improve the quality and accuracy of legal documents.
+- **Share Your Expertise:** Add your knowledge to the collective effort of the GitLaw community.
+- **Collaborate with Peers:** Work alongside other legal professionals and contributors.
 
 ### Steps to Contribute
 
 ##### Step 1: Fork the Repository
 
-1.  Visit GitLaw’s [**Repository Library**](https://git.law/explore) and search for the legal document repository you’d like to fork (e.g., "[UK Employment Documents](https://git.law/uklaw/UK_Employment_Documents_from_ACAS) ").
+1.  Visit GitLaw’s [**template library**](https://git.law/templates) and search for the legal document repository you’d like to fork.
 2.  Open the repository to review its contents and ensure it fits your needs.
 3.  Click the **Fork** button in the top-right corner to create your own copy of the repository.
 

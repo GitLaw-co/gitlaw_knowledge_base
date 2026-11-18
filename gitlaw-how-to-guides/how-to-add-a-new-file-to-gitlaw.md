@@ -11,9 +11,9 @@ GitLaw makes it simple to share your legal documents and contribute to the open-
 
 Adding a new file allows you to:
 
-1.  **Share Knowledge:** Contribute legal document templates or guides that others can use and learn from.
-2.  **Fill Gaps:** Add documents that might be missing from GitLaw, like templates for types of agreements, new jurisdictions or new approaches.
-3.  **Collaborate:** Receive feedback and improvements from the GitLaw community to make your document even better.
+- **Share Knowledge:** Contribute legal document templates or guides that others can use and learn from.
+- **Fill Gaps:** Add documents that might be missing from GitLaw, like templates for types of agreements, new jurisdictions or new approaches.
+- **Collaborate:** Receive feedback and improvements from the GitLaw community to make your document even better.
 
 #### Steps to Add a New File to GitLaw
 

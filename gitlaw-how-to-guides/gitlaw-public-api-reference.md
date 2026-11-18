@@ -132,11 +132,11 @@ The API processes the request and returns the result directly.
 
 ## Best Practices
 
-1.  **Store your API key securely** - It is shown only once at creation and cannot be recovered
-2.  **Use `chatId` to continue conversations** - This preserves context from previous messages, producing better results
-3.  **Prefer `fileId` for existing files** - Avoid re-uploading files that are already in GitLaw
-4.  **Handle errors gracefully** - Check HTTP status codes and parse error responses
-5.  **Respect rate limits** - Back off when you receive a `429` response
+- **Store your API key securely** - It is shown only once at creation and cannot be recovered
+- **Use `chatId` to continue conversations** - This preserves context from previous messages, producing better results
+- **Prefer `fileId` for existing files** - Avoid re-uploading files that are already in GitLaw
+- **Handle errors gracefully** - Check HTTP status codes and parse error responses
+- **Respect rate limits** - Back off when you receive a `429` response
 
 ## Questions?
 

@@ -172,11 +172,11 @@ When you receive a response email, you'll see:
 
 ## Best Practices
 
-1.  **Be specific in your requests** - Clear instructions yield better results
-2.  **Include context** - Mention what type of document or analysis you need
-3.  **Keep conversations organized** - Reply to response emails to maintain context
-4.  **Check file formats** - Ensure attachments are in supported formats
-5.  **Monitor file sizes** - Keep attachments under 1 MB
+- **Be specific in your requests** - Clear instructions yield better results
+- **Include context** - Mention what type of document or analysis you need
+- **Keep conversations organized** - Reply to response emails to maintain context
+- **Check file formats** - Ensure attachments are in supported formats
+- **Monitor file sizes** - Keep attachments under 1 MB
 
 ## Security & Privacy
 

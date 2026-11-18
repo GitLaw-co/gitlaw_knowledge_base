@@ -28,10 +28,15 @@ Editors can invite new participants and promote others to Editor, but cannot rem
 ### Invite someone by email
 
 1. Open the document you want to share.
-2. Open the sharing panel (look for a **Share** button or similar control).
-3. Enter the person's email address.
-4. Select a role - **Editor** or **Viewer**.
-5. Send the invitation.
+2. Click **Share** at the top right of the document.
+3. Type the person's email address in **Add people via email** and select it.
+
+   ![The Share panel with the Add people via email field](https://git.law/kb-images/share-a-document-or-invite-a-counterparty/share-panel.png "ring: 5 15.5 90 14")
+
+4. Select a role next to their name - **Editor** or **Viewer**. You can edit the optional message.
+5. Click **Send**.
+
+   ![The invite step with the role picker set to Editor and the Send button](https://git.law/kb-images/share-a-document-or-invite-a-counterparty/share-invite.png "ring: 72.5 42.5 23 8.5; ring: 5 84 90 10")
 
 The recipient will receive an email with a link to access the document. They do not need to be a member of your organisation - GitLaw supports sharing with anyone.
 
@@ -41,13 +46,18 @@ The recipient will receive an email with a link to access the document. They do 
 
 Instead of inviting people individually, you can generate a link to share.
 
-1. Open the sharing panel on the document.
-2. Create or view the shared link.
-3. Choose the **audience**:
+1. Click **Share** on the document.
+2. Under **General access**, choose who can open it:
+   - **Only people you invite** - the link only works for people who are already collaborators or have a pending invitation.
    - **Anyone with the link** - anyone who has the URL can open the document, including people who are not signed in.
-   - **Invited only** - the link only works for people who are already collaborators or have a pending invitation on that document.
-4. Anyone opening the document through the link gets **view** access. To give someone edit access, invite them by email and choose **Editor**.
-5. Copy and share the link.
+   - **Organization** - anyone in your organisation can view it.
+   - **Public** - anyone can find and view it in the GitLaw community.
+
+   ![The General access menu with Organization, Public, Anyone with the link and Only people you invite](https://git.law/kb-images/share-a-document-or-invite-a-counterparty/share-access.png "ring: 5.5 65 92 14")
+
+3. Click **Copy link** at the bottom of the Share panel and send it.
+
+Anyone opening the document through the link gets **view** access. To give someone edit access, invite them by email and choose **Editor**.
 
 A document can have one active shared link at a time. Updating the settings on an existing link reuses the same URL - you do not need to redistribute it.
 
@@ -69,14 +79,14 @@ For more on the negotiation workflow, see [Negotiate and redline a contract](/kn
 
 **To remove an individual:**
 
-1. Open the sharing panel on the document.
+1. Click **Share** on the document.
 2. Find the person in the participants list.
 3. Remove them or change their role.
 
 **To revoke a shared link:**
 
-1. Open the sharing panel.
-2. Revoke the link.
+1. Click **Share** on the document.
+2. Set **General access** back to **Only people you invite**.
 
 Once revoked, the link stops working immediately. If you create a new link for the same document later, the same link ID is reactivated - it does not generate a new URL.
 

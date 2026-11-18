@@ -127,10 +127,10 @@ They complement each other - use Email Assistant for ad-hoc requests and Zapier 
 
 ## Tips for Success
 
-1.  **Start simple** - Begin with one Zap before building complex workflows
-2.  **Test thoroughly** - Use Zapier's test feature to verify each step
-3.  **Be specific** - Clear instructions to GitLaw produce better results
-4.  **Monitor usage** - Automations can generate many requests; keep an eye on your credits
+- **Start simple** - Begin with one Zap before building complex workflows
+- **Test thoroughly** - Use Zapier's test feature to verify each step
+- **Be specific** - Clear instructions to GitLaw produce better results
+- **Monitor usage** - Automations can generate many requests; keep an eye on your credits
 
 ## Need Help?
 

@@ -14,30 +14,29 @@ You can access the GitLaw Editor in a few simple ways:
 If you’re working directly from your account:
 
 1.  **Open your files:** click **Files** in the left sidebar.
-2.  **Select or create a document:** This page lists all documents in your account. Click an existing file to open it, or create **New File** to start fresh 📂.
+
+    ![Files in the left sidebar](https://git.law/kb-images/access-gitlaw-editor/sidebar-files.png "narrow; ring: 2.5 75 95 24")
+
+2.  **Select or create a document:** This page lists all documents in your account. Click an existing file to open it, or click **+** at the top right and choose **New file** to start fresh 📂.
+
+![The + menu on the Files page with New file and New folder](https://git.law/kb-images/access-gitlaw-editor/new-file-menu.png "ring: 65.5 7 6.5 19; ring: 4 36 67 31")
 
 ### 2\. From GitLaw Chat
 
 If you’re drafting through the **Agent**, you can open the editor directly:
 
-- Open the **…** menu in the top right of the document and choose **Version history** to view earlier versions 💬.
+- Open the **…** menu next to the document title and choose **Version history** to view earlier versions 💬.
+
+![The … menu next to the document title with Version history](https://git.law/kb-images/access-gitlaw-editor/doc-more-menu.png "ring: 35 33.5 63 8")
 
 ### 3\. Navigating the Layout
 
 Once inside the editor, you’ll see:
 
 - **Main pane:** Displays your document for editing
-- **Left sidebar:** Shows the chat history
+- **Left side:** The chat with the Agent
 - **Top toolbar:** Contains formatting and styling controls
-- **… menu (top right):** opens **Document contents**, **Document fields**, **Document info**, **Version history** and **Find**
-
-![__wf_reserved_inherit](https://cdn.prod.website-files.com/68612182f9d418e4929f7519/69143eaa9e38839b68a339e6_Adobe%20Express%20-%20GitLaw%20-%20Create%20and%20redline%20contracts%20by%20chatting%20with%20AI%20-%2012%20November%202025.gif)
-
-Create a new file or open an existing one
-
-![__wf_reserved_inherit](https://cdn.prod.website-files.com/68612182f9d418e4929f7519/69144270bb81c6dcc14488e3_Adobe%20Express%20-%20AI%20Chat%20-%20GitLaw%20-%2012%20November%202025.gif)
-
-Open the … menu in the top right to reach Version history from chat
+- **… menu (next to the document title):** opens **Rename**, **Duplicate document**, **Upload new version**, **Version history**, **Start new chat**, **Download as Word**, **Download as PDF**, **Start eSign**, **Document contents**, **Document fields** and **Document info**
 
 #### See how to do basic formatting in Editor [here](/knowledge-base/basic-formatting-options-in-gitlaw-editor)
 

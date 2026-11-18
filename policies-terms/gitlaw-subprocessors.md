@@ -27,3 +27,9 @@ If you have questions about this list, please contact us at [privacy@git.law](ma
 | Clay                        | Data enrichment (firmographic/professional data)          | United States          | United States      |
 | Apollo.io                   | Data enrichment (sub-processor engaged by Clay)           | United States          | United States      |
 | People Data Labs            | Data enrichment (sub-processor engaged by Clay)           | United States          | United States      |
+
+This table covers providers that process customer data - the documents, inputs and
+account information you give us. Providers that only ever see site-usage telemetry,
+advertising measurement or payment-fraud signals, and never customer documents, are
+listed in the [Cookies](/knowledge-base/gitlaw-cookies) policy instead. Where a provider
+does both, it appears in both places.

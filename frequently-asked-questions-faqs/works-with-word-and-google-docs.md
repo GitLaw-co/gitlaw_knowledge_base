@@ -33,7 +33,8 @@ understands the document's structure and its review layer:
   you can see and act on the counterparty's redlines.
 - **Comments** - each comment keeps its **author, timestamp, and the exact text it's
   anchored to**. Reply threads are not yet preserved on import: a thread arrives as a
-  single comment.
+  single comment and the other messages in it are dropped - check threaded discussions
+  against the original file.
 - **Formatting** - headings, lists, tables, and numbering are preserved wherever
   possible.
 

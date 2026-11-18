@@ -14,18 +14,20 @@ Your export reflects exactly what you see in the editor. If tracked changes are 
 ### Export to Word (DOCX)
 
 1. Open the document in the GitLaw Editor.
-2. Select **Export** from the document menu.
-3. Choose **Word (.docx)** as the format.
-4. Confirm to download the file.
+2. Click the **download** icon at the top right, next to **Share**. You'll also find **Download as Word** and **Download as PDF** in the **…** menu next to the document title.
+3. Choose **Download as Word**. The file downloads straight away.
+
+![The download menu with Download as Word and Download as PDF](https://git.law/kb-images/export-your-document/download-menu.png "ring: 21.5 27 50.5 37")
 
 The exported DOCX preserves tracked changes (insertions, deletions, replacements), comments with author and timestamp, and the thread structure. Headings, lists, and tables are carried across where possible.
 
 ### Export to PDF
 
 1. Open the document in the GitLaw Editor.
-2. Select **Export** from the document menu.
-3. Choose **PDF** as the format.
-4. Confirm to download.
+2. Click the **download** icon at the top right, next to **Share**. You'll also find **Download as Word** and **Download as PDF** in the **…** menu next to the document title.
+3. Choose **Download as PDF**. The file downloads straight away.
+
+![The download menu with Download as PDF highlighted](https://git.law/kb-images/export-your-document/download-menu.png "ring: 21.5 60 50.5 34")
 
 PDF export is one-way - the recipient cannot edit the document or continue tracking changes. If you need an editable version, use DOCX instead.
 

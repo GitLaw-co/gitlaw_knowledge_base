@@ -28,4 +28,4 @@ While it's just you, the choice doesn't show - nobody else is there to see anyth
 
 ## One thing to know
 
-A document is private to the person who created it until it is shared - and that applies to **Owners** and **Admins** too. Being an Owner does not grant access to other members' private documents.
+An organisation **Owner** has access to every file in the organisation, including private ones - a file created in an organisation belongs to the organisation, not to the person who created it. If a document is especially sensitive, keep it in a separate organisation.

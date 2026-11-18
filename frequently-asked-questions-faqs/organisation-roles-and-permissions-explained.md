@@ -18,7 +18,7 @@ They're independent. **Being an Org Admin does not let you read everyone's docum
 
 | Role          | Can do                                                          | Sees files?                                      |
 | ------------- | --------------------------------------------------------------- | ------------------------------------------------ |
-| **Org Owner** | Full control - people, roles, billing, settings                 | Only files they own or that are shared with them |
+| **Org Owner** | Full control - people, roles, billing, settings                 | Yes, all files in the organisation               |
 | **Org Admin** | Invite and remove members, change roles (but not manage Owners), billing | Same as a Member - no special access             |
 | **Member**    | No admin powers; can leave anytime                              | Org-shared files, plus files shared with them    |
 
@@ -32,7 +32,7 @@ There must always be at least one Org Owner. Owners and Admins both manage billi
 | **Editor** | Edit the file; can share it            |
 | **Viewer** | View the file only                     |
 
-Every file is either **shared with the organisation** or **private** - you choose. Being an **Org Owner** does not grant access to other members' private documents. Only a file's **Owner** or **Editor** can share it.
+Every file is either **shared with the organisation** or **private** - you choose. One exception: an **Org Owner** can see all files in the organisation. Only a file's **Owner** or **Editor** can share it.
 
 ## Why the split matters
 

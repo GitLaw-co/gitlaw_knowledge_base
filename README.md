@@ -31,6 +31,7 @@ Frequently asked questions
 - [Do I need a credit card to sign up?](frequently-asked-questions-faqs/do-i-need-a-credit-card-to-sign-up.md)
 - [Do I pay for people I share documents with?](frequently-asked-questions-faqs/do-i-pay-for-people-i-share-with.md)
 - [Does GitLaw have Teams?](frequently-asked-questions-faqs/does-gitlaw-have-teams.md)
+- [Does GitLaw work with Claude or ChatGPT?](frequently-asked-questions-faqs/does-gitlaw-work-with-claude-or-chatgpt.md)
 - [Does my external lawyer or accountant see everything in my organisation?](frequently-asked-questions-faqs/does-my-external-lawyer-see-everything.md)
 - [Does the other party need a GitLaw account to sign or negotiate?](frequently-asked-questions-faqs/does-the-other-party-need-a-gitlaw-account.md)
 - [How do I add a lawyer to review my document?](frequently-asked-questions-faqs/how-do-i-add-a-lawyer-to-review-my-document.md)
@@ -120,6 +121,7 @@ Explore frequently asked questions about GitLaw's data and security
 
 - [How GitLaw Protects Your Data and Personal Information](data-security/how-gitlaw-protects-your-data-and-personal-information.md)
 - [How Does GitLaw Keep My Contracts Secure?](data-security/security.md)
+- [What can an AI assistant connected to GitLaw access?](data-security/what-can-connected-ai-apps-access.md)
 - [Where we store data](data-security/where-we-store-data.md)
 
 ### Copyright & Takedowns

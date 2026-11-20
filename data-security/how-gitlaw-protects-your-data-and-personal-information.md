@@ -62,12 +62,12 @@ GitLaw uses multiple layers to prevent unauthorized access:
 
 #### Does AI process my contract data?
 
-When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers for processing (OpenAI, Anthropic and Google). Our AI providers do not use your data to train their models. We may use de-identified or aggregated data to improve GitLaw's features over time (e.g. statistical patterns like clause frequency for the benefit of all GitLaw users), but your document content is never exposed to other users or shared with third parties for training.
+When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers for processing (OpenAI, Anthropic and Google). Our AI providers do not use your data to train their models. We may use de-identified or aggregated data to improve GitLaw's features over time (e.g. statistical patterns like clause frequency for the benefit of all GitLaw users), but your document content is never exposed to other users or used to train AI models.
 
 Important things to know:
 
 - **Data minimization:** We send only the data needed for the specific AI task you've requested.
-- **No model training:** Our AI providers do not use your inputs to train their models. Your contract data is processed for your request only - it does not become part of any AI training dataset.
+- **No model training:** GitLaw does not train AI models on your documents, and our AI providers do not use your inputs to train theirs. Your contract data is processed for your request only - it does not become part of any AI training dataset.
 - **Zero data retention:** Our primary AI provider (Anthropic) operates under a zero data retention agreement - your contract data is not stored by the AI provider after processing is complete. OpenAI and Google do not have a zero data retention agreement with GitLaw.
 - **Conversation logging**: Your AI conversation chain is recorded on our own infrastructure, which we use to debug, monitor, and improve the quality of AI responses. It is not sent to a third party and is not used for model training. At GitLaw we carefully limit who inside GitLaw has access to it.
 - **Optional:** AI features are optional. You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.

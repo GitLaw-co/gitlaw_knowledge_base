@@ -24,7 +24,7 @@ Your AI conversation chain is recorded on GitLaw's own infrastructure so GitLaw 
 
 ## What GitLaw may use de-identified data for
 
-GitLaw may use de-identified or aggregated data - for example, statistical patterns such as clause frequency - to improve GitLaw's features over time for the benefit of all users. Your document content is never exposed to other users or shared with third parties for training purposes.
+GitLaw may use de-identified or aggregated data - for example, statistical patterns such as clause frequency - to improve GitLaw's features over time for the benefit of all users. Your document content is never exposed to other users or used to train AI models.
 
 ## AI subprocessors
 

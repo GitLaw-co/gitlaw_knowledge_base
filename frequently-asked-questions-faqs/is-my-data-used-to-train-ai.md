@@ -9,12 +9,12 @@ No. Your contracts and document content are not used to train AI models - by Git
 
 ## How AI processing works
 
-When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers - currently Anthropic, OpenAI, and Google - to carry out the specific task you requested. Once the response is returned, your data is discarded. It does not become part of any training dataset.
+When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers - currently Anthropic, OpenAI, and Google - to carry out the specific task you requested. It does not become part of any training dataset.
 
 A few specifics worth knowing:
 
 - **No model training.** GitLaw's AI providers contractually do not use your inputs to train their models. Your contract data is processed for your request only.
-- **Zero data retention (Anthropic).** GitLaw's primary AI provider, Anthropic, operates under a zero data retention agreement - your data is not stored by Anthropic after processing is complete.
+- **Zero data retention (Anthropic).** GitLaw's primary AI provider, Anthropic, operates under a zero data retention agreement - your data is not stored by Anthropic after processing is complete. OpenAI and Google do not have a zero data retention agreement with GitLaw.
 - **Data minimisation.** Only the data needed for the specific task you trigger is sent to an AI provider.
 - **AI features are optional.** You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
 

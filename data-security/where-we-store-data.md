@@ -3,6 +3,7 @@ title: Where we store data
 slug: where-we-store-data
 category: data-security
 excerpt: Our data storage and processing infrastructure is designed to ensure the security, privacy, and efficiency of your data.
+updated: '2026-11-26'
 ---
 
 **Data Storage Locations**
@@ -10,7 +11,7 @@ excerpt: Our data storage and processing infrastructure is designed to ensure th
 Our data storage and processing infrastructure is designed to ensure the security, privacy, and efficiency of your data. Here's a detailed overview of where and how we store and manage data:
 
 1.  Primary Data Storage:
-    - Google Servers (Belgium, EU): The majority of our data is securely stored on Google servers located in Belgium. This ensures compliance with EU data protection regulations and provides robust security measures.
+    - Google Cloud (United States): Customer data is stored on Google Cloud in the United States, in the us-central1 region (Iowa). Database backups and some short-lived files are kept in Google Cloud's US multi-region.
 2.  Databases:
     - PostgreSQL: Some of our structured data is stored in PostgreSQL databases. PostgreSQL is a powerful, open-source object-relational database system known for its reliability and performance.
     - Elasticsearch: For enhanced search capabilities and real-time data analytics, we utilize Elasticsearch. This allows us to quickly retrieve large volumes of data.

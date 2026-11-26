@@ -3,6 +3,7 @@ title: How GitLaw Protects Your Data and Personal Information
 slug: how-gitlaw-protects-your-data-and-personal-information
 category: data-security
 excerpt: Your contracts contain sensitive information - names, email addresses, financial terms, and business details. This guide explains exactly how GitLaw stores, processes, and protects that data.
+updated: '2026-11-26'
 ---
 
 Your contracts contain sensitive information - names, email addresses, financial terms, and business details. This guide explains exactly how GitLaw stores, processes, and protects that data.
@@ -16,11 +17,11 @@ This article explains how GitLaw handles personally identifiable information (PI
 #### Key takeaways
 
 - All data is encrypted at rest and in transit
-- Primary data storage is in the US and EU (Belgium)
+- Customer data is stored in the United States, on Google Cloud
 - Your private documents are never visible to other users or competitors
 - AI features use third-party providers (Anthropic, OpenAI and Google) that do not train on your data
 - You can access, export, and delete your data at any time
-- GitLaw is GDPR-compliant and SOC 2 Type 2 certified
+- GitLaw has a SOC 2 Type 2 report from an independent auditor and follows GDPR best practices
 
 # How Your Data Is Protected
 
@@ -35,7 +36,7 @@ This means your contract content - including counterparty names, emails, rates, 
 
 #### Where is my data stored?
 
-We only use trusted cloud infrastructure that complies with ISO 27001, SOC 2, CCPA, and GDPR requirements. Our primary data infrastructure runs on Google Cloud servers located in **the US and EU (Belgium)**.
+Our hosting provider, Google Cloud, is ISO 27001 certified and SOC 2 audited. Those certifications cover Google Cloud, not the AI providers described below. Our primary data infrastructure runs on Google Cloud servers located in **the United States (us-central1 region, Iowa)**.
 
 We also use:
 
@@ -62,13 +63,13 @@ GitLaw uses multiple layers to prevent unauthorized access:
 
 #### Does AI process my contract data?
 
-When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers for processing (OpenAI, Anthropic and Google). Our AI providers do not use your data to train their models – your data is processed and discarded. We may use de-identified or aggregated data to improve GitLaw's features over time (e.g. statistical patterns like clause frequency for the benefit of all GitLaw users), but your document content is never exposed to other users or shared with third parties for training.
+When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers for processing (OpenAI, Anthropic and Google). Our AI providers do not use your data to train their models. We may use de-identified or aggregated data to improve GitLaw's features over time (e.g. statistical patterns like clause frequency for the benefit of all GitLaw users), but your document content is never exposed to other users or shared with third parties for training.
 
 Important things to know:
 
 - **Data minimization:** We send only the data needed for the specific AI task you've requested.
-- **No model training:** Our AI providers do not use your inputs to train their models. Your contract data is processed and discarded - it does not become part of any AI training dataset.
-- **Zero data retention:** Our primary AI provider (Anthropic) operates under a zero data retention agreement - your contract data is not stored by the AI provider after processing is complete.
+- **No model training:** Our AI providers do not use your inputs to train their models. Your contract data is processed for your request only - it does not become part of any AI training dataset.
+- **Zero data retention:** Anthropic and OpenAI work under zero data retention agreements - they do not store your data after processing is complete. Google keeps request data for a limited time, only for abuse monitoring, and does not use it for training.
 - **Conversation logging**: Your AI conversation chain is recorded on our own infrastructure, which we use to debug, monitor, and improve the quality of AI responses. It is not sent to a third party and is not used for model training. At GitLaw we carefully limit who inside GitLaw has access to it.
 - **Optional:** AI features are optional. You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
 
@@ -97,10 +98,10 @@ We limit internal access to your data to what's needed to run and improve the se
 
 We will notify you if we ever need to access your private content outside of normal service operations, unless prohibited by law.
 
-# Compliance and Certifications
+# Compliance and Audits
 
-- **GDPR** - Compliant. EU data residency, data minimization, user rights.
-- **SOC 2 Type 2** - Certified.
+- **GDPR** - We follow GDPR best practices, including data minimization and user rights. Customer data is stored in the United States.
+- **SOC 2 Type 2** - Independently audited. Audit period 1 December 2025 to 10 March 2026.
 - **Data Protection Agreement** - Available for enterprise customers.
 
 You can view our full security posture, policies (34+), and controls at our [**Trust Center**](https://gitlaw.trust.site/).

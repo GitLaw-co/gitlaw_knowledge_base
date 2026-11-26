@@ -3,6 +3,7 @@ title: GitLaw Subprocessors
 slug: gitlaw-subprocessors
 category: policies-terms
 excerpt: GitLaw defines customer data as all data provided by the customer to GitLaw through their use of GitLaw services. Some customer data is personal data as defined under GDPR.
+updated: '2026-11-26'
 ---
 
 GitLaw defines customer data as all data provided by the customer to GitLaw through their use of GitLaw services. Some customer data is personal data as defined under GDPR.
@@ -18,7 +19,7 @@ If you have questions about this list, please contact us at [privacy@git.law](ma
 | Anthropic                   | AI processing for document drafting, review, and analysis | United States          | United States      |
 | OpenAI                      | AI processing for document drafting, review, and analysis | United States          | United States      |
 | Google (Gemini API)         | AI processing for document drafting, review, and analysis | United States          | United States      |
-| Google Cloud Platform (GCP) | Cloud Hosted Infrastructure                               | United States, Belgium | United States      |
+| Google Cloud Platform (GCP) | Cloud Hosted Infrastructure                               | United States          | United States      |
 | Cloudflare                  | Content delivery service                                  | United States          | United States      |
 | SendGrid                    | Transactional and notification email delivery             | United States          | United States      |
 | Twilio                      | SMS notification provider for 2 Factor Authentication     | United States          | United States      |

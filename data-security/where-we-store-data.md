@@ -3,6 +3,7 @@ title: Where we store data
 slug: where-we-store-data
 category: data-security
 excerpt: Our data storage and processing infrastructure is designed to ensure the security, privacy, and efficiency of your data.
+updated: '2026-11-26'
 ---
 
 **Data Storage Locations**

@@ -3,6 +3,7 @@ title: GitLaw Subprocessors
 slug: gitlaw-subprocessors
 category: policies-terms
 excerpt: GitLaw defines customer data as all data provided by the customer to GitLaw through their use of GitLaw services. Some customer data is personal data as defined under GDPR.
+updated: '2026-11-26'
 ---
 
 GitLaw defines customer data as all data provided by the customer to GitLaw through their use of GitLaw services. Some customer data is personal data as defined under GDPR.

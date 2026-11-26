@@ -3,6 +3,7 @@ title: Is my data used to train AI models?
 slug: is-my-data-used-to-train-ai
 category: frequently-asked-questions-faqs
 excerpt: "No: GitLaw's AI providers do not train on your contract data, and your document content is never shared with third parties for model training."
+updated: '2026-11-26'
 ---
 
 No. Your contracts and document content are not used to train AI models - by GitLaw or by the AI providers that power GitLaw's features.

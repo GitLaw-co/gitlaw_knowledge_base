@@ -3,6 +3,7 @@ title: How GitLaw Protects Your Data and Personal Information
 slug: how-gitlaw-protects-your-data-and-personal-information
 category: data-security
 excerpt: Your contracts contain sensitive information - names, email addresses, financial terms, and business details. This guide explains exactly how GitLaw stores, processes, and protects that data.
+updated: '2026-11-26'
 ---
 
 Your contracts contain sensitive information - names, email addresses, financial terms, and business details. This guide explains exactly how GitLaw stores, processes, and protects that data.

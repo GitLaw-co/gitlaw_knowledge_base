@@ -36,7 +36,7 @@ This means your contract content - including counterparty names, emails, rates, 
 
 #### Where is my data stored?
 
-We only use trusted cloud infrastructure that complies with ISO 27001, SOC 2, CCPA, and GDPR requirements. Our primary data infrastructure runs on Google Cloud servers located in **the United States (us-central1 region, Iowa)**.
+We only use trusted cloud infrastructure: Google Cloud, which is ISO 27001 certified and SOC 2 audited. Our primary data infrastructure runs on Google Cloud servers located in **the United States (us-central1 region, Iowa)**.
 
 We also use:
 

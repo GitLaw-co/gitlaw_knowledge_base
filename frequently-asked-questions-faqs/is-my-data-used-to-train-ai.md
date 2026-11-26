@@ -15,7 +15,7 @@ When you use GitLaw's AI features (document review, drafting, clause analysis), 
 A few specifics worth knowing:
 
 - **No model training.** GitLaw's AI providers contractually do not use your inputs to train their models. Your contract data is processed for your request only.
-- **Zero data retention (Anthropic).** GitLaw's primary AI provider, Anthropic, operates under a zero data retention agreement - your data is not stored by Anthropic after processing is complete. OpenAI and Google do not have a zero data retention agreement with GitLaw.
+- **Zero data retention.** Anthropic and OpenAI work under zero data retention agreements - they do not store your data after processing is complete. Google keeps request data for a limited time, only for abuse monitoring, and does not use it for training.
 - **Data minimisation.** Only the data needed for the specific task you trigger is sent to an AI provider.
 - **AI features are optional.** You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
 

@@ -21,7 +21,7 @@ This article explains how GitLaw handles personally identifiable information (PI
 - Your private documents are never visible to other users or competitors
 - AI features use third-party providers (Anthropic, OpenAI and Google) that do not train on your data
 - You can access, export, and delete your data at any time
-- GitLaw has a SOC 2 Type 2 report from an independent auditor and follows GDPR principles
+- GitLaw has a SOC 2 Type 2 report from an independent auditor and follows GDPR best practices
 
 # How Your Data Is Protected
 
@@ -69,7 +69,7 @@ Important things to know:
 
 - **Data minimization:** We send only the data needed for the specific AI task you've requested.
 - **No model training:** Our AI providers do not use your inputs to train their models. Your contract data is processed for your request only - it does not become part of any AI training dataset.
-- **Zero data retention:** Our primary AI provider (Anthropic) operates under a zero data retention agreement - your contract data is not stored by the AI provider after processing is complete. OpenAI and Google do not have a zero data retention agreement with GitLaw.
+- **Zero data retention:** Anthropic and OpenAI work under zero data retention agreements - they do not store your data after processing is complete. Google keeps request data for a limited time, only for abuse monitoring, and does not use it for training.
 - **Conversation logging**: Your AI conversation chain is recorded on our own infrastructure, which we use to debug, monitor, and improve the quality of AI responses. It is not sent to a third party and is not used for model training. At GitLaw we carefully limit who inside GitLaw has access to it.
 - **Optional:** AI features are optional. You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
 
@@ -100,7 +100,7 @@ We will notify you if we ever need to access your private content outside of nor
 
 # Compliance and Audits
 
-- **GDPR** - We follow its principles: data minimization and user rights. Customer data is stored in the United States.
+- **GDPR** - We follow GDPR best practices, including data minimization and user rights. Customer data is stored in the United States.
 - **SOC 2 Type 2** - Independently audited. Audit period 1 December 2025 to 10 March 2026.
 - **Data Protection Agreement** - Available for enterprise customers.
 

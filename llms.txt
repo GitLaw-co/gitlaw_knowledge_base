@@ -92,7 +92,7 @@ Top-up AI credits are available in $25, $50 or $100 amounts and never expire. No
 - SOC 2 Type 2 audited, enterprise-grade security.
 - Data encrypted in transit and at rest (AES-256, TLS 1.2+).
 - Role-based access controls. Only the people a user chooses can see their documents.
-- GDPR and CCPA aligned.
+- Follows GDPR and CCPA best practices.
 - AI outputs are explainable and fully auditable.
 - Details: https://git.law/security
 
@@ -137,7 +137,7 @@ Yes. GitLaw eSign meets UK, US, and EU electronic signature standards. This appl
 Common commercial contracts including NDAs, client and master services agreements, statements of work, freelance and independent contractor agreements, employment offer letters, founders' agreements, SAFEs and convertible notes, advisor agreements, letters of engagement, demand letters, cease and desist letters, and website legal packs.
 
 **Where is my data stored and is it secure?**
-GitLaw is SOC 2 Type 2 audited, encrypts data with AES-256 and TLS 1.2+, uses role-based access controls, and is GDPR and CCPA aligned.
+GitLaw is SOC 2 Type 2 audited, encrypts data with AES-256 and TLS 1.2+, uses role-based access controls, and follows GDPR and CCPA best practices.
 
 ## Key links
 

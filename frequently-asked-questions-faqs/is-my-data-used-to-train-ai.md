@@ -2,26 +2,26 @@
 title: Is my data used to train AI models?
 slug: is-my-data-used-to-train-ai
 category: frequently-asked-questions-faqs
-excerpt: "No: your contracts are not used to train AI models, by GitLaw or by its AI providers."
+excerpt: "No: GitLaw does not train AI models on your contracts, and under their terms Anthropic, OpenAI and Google do not either."
 updated: '2026-11-26'
 ---
 
-No. Your contracts and document content are not used to train AI models - by GitLaw or by the AI providers that power GitLaw's features.
+No. GitLaw does not train AI models on your contracts or document content. Under their terms, Anthropic, OpenAI and Google do not either.
 
 ## How AI processing works
 
-When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers - currently Anthropic, OpenAI, and Google - to carry out the specific task you requested. It does not become part of any training dataset.
+When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers - including Anthropic, OpenAI and Google - to carry out the specific task you requested. GitLaw does not add it to any training dataset.
 
 A few specifics worth knowing:
 
-- **No model training.** GitLaw's AI providers contractually do not use your inputs to train their models. Your contract data is processed for your request only.
+- **No model training.** The terms of Anthropic, OpenAI and Google say they do not use your inputs to train their models. Your contract data is processed for your request only.
 - **Zero data retention.** Anthropic and OpenAI work under zero data retention agreements - they do not store your data after processing is complete. Google keeps request data for a limited time, only for abuse monitoring, and does not use it for training.
 - **Data minimisation.** Only the data needed for the specific task you trigger is sent to an AI provider.
 - **AI features are optional.** You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
 
 ## What about conversation logs?
 
-Your AI conversation chain is recorded on GitLaw's own infrastructure so GitLaw can debug issues and improve response quality. It is not sent to a third party and is not used for model training. Within GitLaw, access is restricted to a small number of team members who need it for their role. Conversation data is retained for 14 days and then automatically deleted.
+Your AI conversation chain is recorded on GitLaw's own infrastructure so GitLaw can debug issues and improve response quality. It is not sent to a third party and is not used for model training. Within GitLaw, access is restricted to a small number of team members who need it for their role. It is deleted when you delete the chat.
 
 ## What GitLaw may use de-identified data for
 

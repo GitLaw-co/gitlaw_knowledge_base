@@ -19,7 +19,7 @@ This article explains how GitLaw handles personally identifiable information (PI
 - All data is encrypted at rest and in transit
 - Customer data is stored in the United States, on Google Cloud
 - Your private documents are never visible to other users or competitors
-- AI features use third-party providers (Anthropic, OpenAI and Google) that do not train on your data
+- AI features use third-party providers, including Anthropic, OpenAI and Google, whose terms say they do not train on your data
 - You can access, export, and delete your data at any time
 - GitLaw has a SOC 2 Type 2 report from an independent auditor and follows GDPR best practices
 
@@ -55,7 +55,7 @@ For a full list of where data is stored and processed, see our [Where We Store D
 
 GitLaw uses multiple layers to prevent unauthorized access:
 
-- **Multi-factor authentication (MFA)** for account login. We use Sprinto to continuously monitor compliance across the organization.
+- **Multi-factor authentication (MFA)** for account login.
 - **Regular security audits** and vulnerability assessments.
 - **Principle of Least Privilege** so team members are granted only the minimum level of access necessary to perform their job functions.
 
@@ -63,12 +63,12 @@ GitLaw uses multiple layers to prevent unauthorized access:
 
 #### Does AI process my contract data?
 
-When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers for processing (OpenAI, Anthropic and Google). Our AI providers do not use your data to train their models. We may use de-identified or aggregated data to improve GitLaw's features over time (e.g. statistical patterns like clause frequency for the benefit of all GitLaw users), but your document content is never exposed to other users or shared with third parties for training.
+When you use GitLaw's AI features (document review, drafting, clause analysis), your document content is sent to third-party AI providers for processing, including OpenAI, Anthropic and Google. Under their terms, Anthropic, OpenAI and Google do not use your data to train their models. We may use de-identified or aggregated data to improve GitLaw's features over time (e.g. statistical patterns like clause frequency for the benefit of all GitLaw users), but your document content is never exposed to other users or shared with third parties for training.
 
 Important things to know:
 
 - **Data minimization:** We send only the data needed for the specific AI task you've requested.
-- **No model training:** Our AI providers do not use your inputs to train their models. Your contract data is processed for your request only - it does not become part of any AI training dataset.
+- **No model training:** GitLaw does not train AI models on your documents, and the terms of Anthropic, OpenAI and Google say they do not use your inputs to train theirs. Your contract data is processed for your request only - it does not become part of any AI training dataset.
 - **Zero data retention:** Anthropic and OpenAI work under zero data retention agreements - they do not store your data after processing is complete. Google keeps request data for a limited time, only for abuse monitoring, and does not use it for training.
 - **Conversation logging**: Your AI conversation chain is recorded on our own infrastructure, which we use to debug, monitor, and improve the quality of AI responses. It is not sent to a third party and is not used for model training. At GitLaw we carefully limit who inside GitLaw has access to it.
 - **Optional:** AI features are optional. You can use GitLaw's editor, collaboration, and version control features without ever triggering AI processing.
@@ -91,7 +91,7 @@ No. Private documents on GitLaw are private. Other users cannot see, search, or 
 
 We limit internal access to your data to what's needed to run and improve the service:
 
-- A small number of team members can review data processed by our AI features to monitor quality, debug issues, and improve reliability. This data is retained for 14 days and then automatically deleted.
+- A small number of team members can review data processed by our AI features to monitor quality, debug issues, and improve reliability. It is deleted when you delete the chat it came from.
 - Only team members who need this access for their role have it.
 - We do not access your documents for sales, marketing, or any purpose unrelated to running the service.
 - We may access your data if you ask us to (e.g., for a support request), for security purposes (e.g., scanning for malware), or where required by law.
